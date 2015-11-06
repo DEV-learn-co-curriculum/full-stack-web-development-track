@@ -1,0 +1,479 @@
+---
+track:
+    title: Full Stack Web Development
+    uuid: dbe2cdc5-21a5-4519-a20c-9c602e2c8107
+    topics:
+    -   title: Git and GitHub
+        uuid: 28d2c1aa-22cf-4af1-8841-04af7fbe4dff
+        units:
+        -   title: Collaboration
+            uuid: 589b4393-f8fd-42cb-893d-1b588fe9f162
+            lessons:
+            -   title: Git and GitHub Quiz
+                uuid: 0f31fbf7-80aa-4e15-b89c-01b791a894cf
+                contents:
+                -   title: Git Github Learn Quiz
+                    source: https://github.com/learn-co-curriculum/git-github-learn-quiz
+                    uuid: f17e0963-4f72-4751-9fd3-2e03e8df98a8
+    -   title: Procedural Ruby
+        uuid: 1b7193f0-9c8e-4944-b337-d3ba0b62c0cb
+        units:
+        -   title: Variables and Methods
+            uuid: eac8b457-f89c-4bf2-9e23-40300be00efd
+            lessons:
+            -   title: Intro to Variables
+                uuid: cdb6c43d-4bfe-4fca-a9f1-f978cd985334
+                contents:
+                -   title: Variable Readme
+                    source: https://github.com/learn-co-curriculum/variable-readme
+                    uuid: a91ce328-9065-4159-b072-69efaf72cfa5
+            -   title: Variable Assignment Lab
+                uuid: 9c717a85-9efa-4fc7-bf51-f9f6bc135c26
+                contents:
+                -   title: Ruby Variable Assignment
+                    source: https://github.com/learn-co-curriculum/ruby-variable-assignment
+                    uuid: 216a51df-ac76-41ba-ba55-13942a1635d4
+            -   title: String Interpolation
+                uuid: bfb4d0ab-9953-463f-ab97-4085ef7b63fd
+                contents:
+                -   title: Interpolation Readme
+                    source: https://github.com/learn-co-curriculum/interpolation-readme
+                    uuid: 75317b72-201a-4519-8222-b83e9d6502d6
+            -   title: Defining Methods
+                uuid: c042e001-683f-44a0-96b3-1f22383a4979
+                contents:
+                -   title: Ruby Methods Readme
+                    source: https://github.com/learn-co-curriculum/ruby-methods-readme
+                    uuid: 54745692-3902-405b-9025-832124d76ae1
+            -   title: Methods and Arguments
+                uuid: c8789330-22da-4b59-9468-bc3651cd3765
+                contents:
+                -   title: Ruby Arguments Readme
+                    source: https://github.com/learn-co-curriculum/ruby-arguments-readme
+                    uuid: f926a5b2-1940-47ec-a9a1-241c9f400051
+            -   title: Methods and Arguments Lab
+                uuid: 9e0232b7-cbaa-4e3c-ac84-5d80911ad49a
+                contents:
+                -   title: Method Arguments Lab
+                    source: https://github.com/learn-co-curriculum/method-arguments-lab
+                    uuid: 4384cd73-ae80-46a7-8b1b-7abf49544d8f
+            -   title: Methods and Default Arguments
+                uuid: 28d247ea-0bfe-46be-969d-6b987ad27dea
+                contents:
+                -   title: Methods Default Arguments
+                    source: https://github.com/learn-co-curriculum/methods-default-arguments
+                    uuid: e6deb7d0-81e4-4949-a892-c692cf701058
+            -   title: Methods and Default Arguments Lab
+                uuid: 6e29ea53-5bfc-4e3b-b492-82083fe3b5c5
+                contents:
+                -   title: Say Hello Ruby
+                    source: https://github.com/learn-co-curriculum/say-hello-ruby
+                    uuid: d61e4fff-62da-4e29-b890-52f5e4cfb358
+            -   title: Return Values
+                uuid: 69988121-8fda-4c68-8d11-6578f9f099bf
+                contents:
+                -   title: Puts Print And Return Readme
+                    source: https://github.com/learn-co-curriculum/puts-print-and-return-readme
+                    uuid: 1a11c399-5f8c-463a-935e-bfb6a315b5d4
+            -   title: Return Values Lab
+                uuid: d0901efc-a098-4f58-9178-57edebb3a548
+                contents:
+                -   title: Parrot Ruby
+                    source: https://github.com/learn-co-curriculum/parrot-ruby
+                    uuid: e00387ab-2148-48cf-95a8-203d65bf1f5d
+            -   title: Debugging with Pry
+                uuid: d1c93fe4-564e-4bd6-8202-24b605b8933b
+                contents:
+                -   title: Debugging With Pry
+                    source: https://github.com/learn-co-curriculum/debugging-with-pry
+                    uuid: 9fd26dba-bc03-468b-bdd0-6125274fcd34
+            -   title: Method Scope
+                uuid: db37b7f1-8817-4a9a-be0f-b1bfa55c7b6c
+                contents:
+                -   title: Method Scope
+                    source: https://github.com/learn-co-curriculum/method-scope
+                    uuid: a7fcffea-6472-4d5e-9869-8ef92ee72c25
+            -   title: Method Scope Lab
+                uuid: 098fd6fd-ff63-4e73-9a41-9a1ab1c31ce7
+                contents:
+                -   title: Method Scope Lab
+                    source: https://github.com/learn-co-curriculum/method-scope-lab
+                    uuid: a3e96b3e-625c-4cca-a6a7-84cee89ca882
+        -   title: Booleans
+            uuid: bb9435e1-edbc-47b0-8b62-ee1df1f33e5e
+            lessons:
+            -   title: Booleans and Truthiness in Ruby
+                uuid: 5dcb29e6-f37c-4bbb-8730-c35d327395d7
+                contents:
+                -   title: Truthiness In Ruby Readme
+                    source: https://github.com/learn-co-curriculum/truthiness-in-ruby-readme
+                    uuid: 2895ee6b-18cc-403f-9ebb-52c3b3cd82a8
+            -   title: Boolean Operators
+                uuid: c5cb69e0-b465-49ca-89cc-36d768f966ee
+                contents:
+                -   title: Booleans Ruby Readme
+                    source: https://github.com/learn-co-curriculum/booleans-ruby-readme
+                    uuid: 2da2b7f6-29c0-40d6-900f-c687f028fd52
+            -   title: Truthiness Code Challenge
+                uuid: 60c01239-f9fe-4c90-afab-a98f7952f420
+                contents:
+                -   title: Truthiness Code Challenge
+                    source: https://github.com/learn-co-curriculum/truthiness-code-challenge
+                    uuid: f2fd34ef-6d30-4821-ab68-550f64bed5f3
+        -   title: Logic and Conditionals
+            uuid: 4df1ce78-b977-4e68-8b93-c2684efdfe6f
+            lessons:
+            -   title: If Statements
+                uuid: 1cf4979a-3f32-4bb8-9102-806a90a6fdfe
+                contents:
+                -   title: Conditional Readme
+                    source: https://github.com/learn-co-curriculum/conditional-readme
+                    uuid: cf03e8de-42d0-46cd-a209-5c3010e50acc
+            -   title: If Statements Lab
+                uuid: dbc6163b-4c14-4502-9672-c0b2449d9630
+                contents:
+                -   title: Speaking Grandma
+                    source: https://github.com/learn-co-curriculum/speaking-grandma
+                    uuid: 60d41ba7-b205-47cd-9afb-3af298249a5a
+            -   title: Ternary Operators and Statement Modifiers
+                uuid: 912dc1eb-9ae6-4441-a39d-a38ecac250a0
+                contents:
+                -   title: Operators
+                    source: https://github.com/learn-co-curriculum/operators
+                    uuid: 21a37305-f7db-4f1f-a26f-bb6eb4994365
+            -   title: If Statements Quiz
+                uuid: 20b9649b-a76d-4bc1-97b6-c7a0da726ad0
+                contents:
+                -   title: Conditional Operators Quiz
+                    source: https://github.com/learn-co-curriculum/conditional-operators-quiz
+                    uuid: 7dbd7389-e857-4f4f-a797-bfd6a344336e
+            -   title: Case Statements
+                uuid: 193fd97f-ce16-4049-966a-4064062bb722
+                contents:
+                -   title: Case Statements Readme
+                    source: https://github.com/learn-co-curriculum/case-statements-readme
+                    uuid: 852dd5eb-79b9-4ba6-928f-46bfa765b824
+            -   title: Case Statements Quiz
+                uuid: 4f739181-3d12-49f6-ad60-5c68bc11b2b6
+                contents:
+                -   title: Case Statements Quiz
+                    source: https://github.com/learn-co-curriculum/case-statements-quiz
+                    uuid: c5d45973-1a21-42a2-938b-341915cf208b
+            -   title: Logic and Conditionals Quiz
+                uuid: 40c3e321-b6b3-44bc-8e23-e4ea0315cdb5
+                contents:
+                -   title: Conditional Quiz Vowels
+                    source: https://github.com/learn-co-curriculum/conditional-quiz-vowels
+                    uuid: 6db83d5f-f0d8-4145-b5e8-325e6da11e9d
+        -   title: Looping
+            uuid: 6826a5d1-3781-49d5-bedb-69f50ddeb5b4
+            lessons:
+            -   title: Intro to Loops
+                uuid: 0fe1b0ab-66e4-476b-9e3d-0227f0b7871a
+                contents:
+                -   title: Looping Introduction
+                    source: https://github.com/learn-co-curriculum/looping-introduction
+                    uuid: 0fc2dcd7-0a34-4fd2-9afe-3f74b900f853
+            -   title: Looping
+                uuid: ecce4cd3-4896-484c-929e-d3e280cde81c
+                contents:
+                -   title: Looping Readme
+                    source: https://github.com/learn-co-curriculum/looping-readme
+                    uuid: 25723150-8b4f-44c4-8043-08a71982384a
+            -   title: Looping Lab
+                uuid: 4ca6370d-f383-4983-85ab-a0d54cca74a3
+                contents:
+                -   title: Looping Loop
+                    source: https://github.com/learn-co-curriculum/looping-loop
+                    uuid: c41f246c-38ca-4c44-80fa-d387d186e166
+            -   title: Times
+                uuid: 556097b2-46ec-4417-a640-eb15c8caf39f
+                contents:
+                -   title: Looping Times
+                    source: https://github.com/learn-co-curriculum/looping-times
+                    uuid: 0a1bb7bb-e788-43d1-ada8-2952c40802e3
+            -   title: Looping Quiz
+                uuid: a3775abd-8c72-4ad7-bb23-61479a3d8abe
+                contents:
+                -   title: Looping Quiz
+                    source: https://github.com/learn-co-curriculum/looping-quiz
+                    uuid: d8057599-afbe-4f0f-a26a-076933290814
+            -   title: While and Until Loops
+                uuid: bc4062d1-c294-451f-9c92-b781116fc4b8
+                contents:
+                -   title: While And Until Looping Readme
+                    source: https://github.com/learn-co-curriculum/while-and-until-looping-readme
+                    uuid: da0e5468-135a-47d4-8a6c-9b2d783effbc
+            -   title: While and Until Loops Lab
+                uuid: 0f645014-5cae-4f3e-b475-ae690b5e7835
+                contents:
+                -   title: Looping While Until
+                    source: https://github.com/learn-co-curriculum/looping-while-until
+                    uuid: 8394e82f-1a49-419c-b2af-68f4b41eff50
+            -   title: Countdown to Midnight Lab
+                uuid: 30f71f96-cde5-42a6-9f6c-9490e0422a15
+                contents:
+                -   title: Countdown To Midnight
+                    source: https://github.com/learn-co-curriculum/countdown-to-midnight
+                    uuid: 12f5b9df-170b-4108-ac40-50485ea81a3e
+        -   title: Arrays
+            uuid: f1f6aead-110e-4d8a-932b-29ea4021bd43
+            lessons:
+            -   title: Intro to Arrays
+                uuid: 884f31a2-55c1-4593-8428-81cbf567b42e
+                contents:
+                -   title: Array Introduction
+                    source: https://github.com/learn-co-curriculum/array-introduction
+                    uuid: e64a3480-56f0-41de-87f8-0204a9a60b45
+            -   title: Using Arrays
+                uuid: 6cdd0178-2433-4e46-b995-3fd1ea6bbbb1
+                contents:
+                -   title: Array Readme
+                    source: https://github.com/learn-co-curriculum/array-readme
+                    uuid: 8a4e0731-ca57-41a9-9d1a-3690f782b81d
+            -   title: Using Arrays Lab
+                uuid: 4d6da01c-1cda-4bf4-8df7-df42434cf73a
+                contents:
+                -   title: Array Crud Lab
+                    source: https://github.com/learn-co-curriculum/array-CRUD-lab
+                    uuid: 2424e095-f422-419a-b2e4-aca57ada5f1e
+            -   title: Arrays and Methods
+                uuid: b4e82fc1-cc81-4ac0-96f3-e3b99ed7afb0
+                contents:
+                -   title: Array Methods Readme
+                    source: https://github.com/learn-co-curriculum/array-methods-readme
+                    uuid: ece2876f-e800-48c3-82df-4b9fa82bdc95
+            -   title: Arrays and Methods Lab
+                uuid: 7b383b1f-6f42-4b2f-88e4-28c1b6503ec9
+                contents:
+                -   title: Array Methods Lab
+                    source: https://github.com/learn-co-curriculum/array-methods-lab
+                    uuid: a8e704d8-b723-40a8-a77a-29c67d1ad619
+        -   title: Iteration
+            uuid: 3d7d641a-d19e-416d-a675-bc7897703932
+            lessons:
+            -   title: Iteration and Abstraction
+                uuid: c6ea991b-f89e-40f1-a7e6-f1b2f440902b
+                contents:
+                -   title: Iterators And Abstraction Ruby
+                    source: https://github.com/learn-co-curriculum/iterators-and-abstraction-ruby
+                    uuid: cace835b-6d82-4190-b139-cd33ba063bf9
+            -   title: Intro to Ruby Iterators
+                uuid: 2e92c8f9-bcc8-43e5-a5cd-adeca55a4fd3
+                contents:
+                -   title: Intro To Ruby Iterators
+                    source: https://github.com/learn-co-curriculum/intro-to-ruby-iterators
+                    uuid: 6b6ac920-a517-4da6-a2bd-fb358c62f609
+            -   title: Square Array Lab
+                uuid: ffed7d3a-6b2b-493d-ad9b-2a41421860a6
+                contents:
+                -   title: Square Array
+                    source: https://github.com/learn-co-curriculum/square_array
+                    uuid: a828ea19-0488-431a-853c-074029518703
+            -   title: Badges and Schedules Lab
+                uuid: 9ca861e4-b39d-4df6-bc79-967e9b9060b7
+                contents:
+                -   title: Badges And Schedules
+                    source: https://github.com/learn-co-curriculum/badges-and-schedules
+                    uuid: 978c9c6b-0034-46a5-82c3-5ace92fa5e87
+            -   title: Deli Counter Lab
+                uuid: af126cb9-2919-4afe-bdd5-c7075e29a006
+                contents:
+                -   title: Deli Counter
+                    source: https://github.com/learn-co-curriculum/deli-counter
+                    uuid: 1cd7c4e9-1968-46b4-9c07-29a21f4577fb
+            -   title: Oxford Comma Lab
+                uuid: 38cf3227-ae0b-4759-a177-030b64723361
+                contents:
+                -   title: Oxford Comma
+                    source: https://github.com/learn-co-curriculum/oxford-comma
+                    uuid: 97a2605f-ec27-4487-a9b1-8538a86b95c1
+            -   title: Collect and Return Values
+                uuid: d442a28c-af77-4078-926b-6d662b21cd66
+                contents:
+                -   title: Each Vs Collect Readme
+                    source: https://github.com/learn-co-curriculum/each-vs-collect-readme
+                    uuid: e7e11c20-cc2e-4c55-9c5b-b2f910853cab
+            -   title: Reverse Each Word Lab
+                uuid: 07d33325-ce7b-464f-ab62-2471f04e8c8b
+                contents:
+                -   title: Reverse Each Word
+                    source: https://github.com/learn-co-curriculum/reverse-each-word
+                    uuid: aa8dca60-e3bd-43df-9ec7-32211099127f
+            -   title: Yield and Blocks
+                uuid: 6b1a13ae-a41d-4536-b07f-fde8deb0dcdc
+                contents:
+                -   title: Yield And Blocks
+                    source: https://github.com/learn-co-curriculum/yield-and-blocks
+                    uuid: fadfebef-8d42-4eb2-b38f-c875628dcc58
+            -   title: Each Lab
+                uuid: b4549488-e1ee-438d-868f-daa721933cbc
+                contents:
+                -   title: My Each
+                    source: https://github.com/learn-co-curriculum/my-each
+                    uuid: 42e97853-8c7b-4e3e-a9e2-e361025828f9
+            -   title: Return from Yield Statements
+                uuid: 0c2250d0-cdee-4902-a556-4d67d1e9e3e5
+                contents:
+                -   title: Yield And Return Values
+                    source: https://github.com/learn-co-curriculum/yield-and-return-values
+                    uuid: 29916233-c392-4364-8fe6-aed2c4eab09f
+            -   title: Collect Lab
+                uuid: e5657486-bc2b-4c8b-956a-e7c76ecaa642
+                contents:
+                -   title: My Collect
+                    source: https://github.com/learn-co-curriculum/my-collect
+                    uuid: 343e32e7-53e9-4398-8e9b-84be70667e1c
+            -   title: Boolean Enumerators
+                uuid: 231611ba-9855-4439-81db-79bf475d47db
+                contents:
+                -   title: Ruby Boolean Enumerables
+                    source: https://github.com/learn-co-curriculum/ruby-boolean-enumerables
+                    uuid: 3dc20cf2-6505-4e3b-8083-06de1da01a53
+            -   title: Search Enumerators
+                uuid: d3aee353-3bfd-4689-a10d-ca826a12ad9a
+                contents:
+                -   title: Ruby Search Enumerators
+                    source: https://github.com/learn-co-curriculum/ruby-search-enumerators
+                    uuid: 81ace5a9-4504-49b1-aff5-9220e257c536
+            -   title: My All? Lab
+                uuid: 79912e5a-6dc5-46a2-bde1-3d83abc130ba
+                contents:
+                -   title: My All
+                    source: https://github.com/learn-co-curriculum/my_all
+                    uuid: c337c3a4-6894-4650-b8ca-9d6063fc55e2
+            -   title: My Find Lab
+                uuid: 17207c5a-a6bc-4cc8-85ff-17b6fdfcfd53
+                contents:
+                -   title: My Find Code Along
+                    source: https://github.com/learn-co-curriculum/my_find_code_along
+                    uuid: 1c5f0619-0eb2-4fda-a259-f88702be87bd
+            -   title: Cartoon Collections Lab
+                uuid: 3fffb0a2-6b89-4420-accb-02ff4d4d8a80
+                contents:
+                -   title: Cartoon Collections
+                    source: https://github.com/learn-co-curriculum/cartoon-collections
+                    uuid: c984d44b-354e-4d45-a16e-3ec89d6ca26e
+            -   title: Enumerators Code Challenge
+                uuid: 09e2fdb9-ef4c-4773-9136-a5a1ae8d2ec5
+                contents:
+                -   title: Enumerator Coding Challenge
+                    source: https://github.com/learn-co-curriculum/enumerator-coding-challenge
+                    uuid: e94a0256-0c67-4378-8886-64cadb341ac8
+            -   title: Prime? Lab
+                uuid: aa86d572-0197-48af-93fd-68c37e478659
+                contents:
+                -   title: Prime Ruby
+                    source: https://github.com/learn-co-curriculum/prime-ruby
+                    uuid: f29f1bb6-7a4d-4718-aeab-1320fd3c33bf
+            -   title: 'Sorting '
+                uuid: 5b6b4b12-3af1-472f-b584-3451bbc035a1
+                contents:
+                -   title: Sorting Readme
+                    source: https://github.com/learn-co-curriculum/sorting-readme
+                    uuid: 42acd752-64e3-48db-937c-8bcf4a609c3a
+            -   title: Sorting Lab
+                uuid: f2a28ef1-18a6-4fab-b3b3-0ee7cfaf4679
+                contents:
+                -   title: Collections Practice
+                    source: https://github.com/learn-co-curriculum/collections_practice
+                    uuid: fbac64ef-7d52-4334-8651-480de75348c4
+        -   title: Hashes
+            uuid: 261c5813-0976-47cd-ac8c-074cb9a58bbd
+            lessons:
+            -   title: Introduction to Hashes
+                uuid: e6cd9d28-d8ab-405e-9f35-72b304226e29
+                contents:
+                -   title: Hash Overview Readme
+                    source: https://github.com/learn-co-curriculum/hash-overview-readme
+                    uuid: 4612637c-eea0-4bbb-b104-f34c68ef5541
+            -   title: Using Hashes
+                uuid: f289cfed-8fe5-4eed-8a88-f1815940d104
+                contents:
+                -   title: My First Hash
+                    source: https://github.com/learn-co-curriculum/my-first-hash
+                    uuid: 4c9b9d81-4170-4f71-8b4d-8d9ff364020b
+            -   title: Symbols
+                uuid: e97b7892-e310-4bcc-b4ac-fafa9b828445
+                contents:
+                -   title: Ruby Symbols
+                    source: https://github.com/learn-co-curriculum/ruby-symbols
+                    uuid: 3eef33a9-7698-4109-80fa-6140958652db
+            -   title: Hash Iteration with Each
+                uuid: 1bf64417-5520-470c-a211-6c1996166d63
+                contents:
+                -   title: Hash Iteration
+                    source: https://github.com/learn-co-curriculum/hash-iteration
+                    uuid: 18514d5f-452e-440b-91ec-fd3bd38861c9
+            -   title: Hash Iteration with Collect
+                uuid: cb769d87-fa5a-4990-844e-4761fb74c8cc
+                contents:
+                -   title: Hash Iteration Collect
+                    source: https://github.com/learn-co-curriculum/hash-iteration-collect
+                    uuid: 0573f191-42d4-4d68-80b4-d8fd5d0ee562
+            -   title: Hash Iteration Lab
+                uuid: bb375966-d93b-42a5-b3bd-5c1e4c241d46
+                contents:
+                -   title: Key For Min Value
+                    source: https://github.com/learn-co-curriculum/key-for-min-value
+                    uuid: 02af43c6-358d-4006-9d9c-ba3209fa9e32
+        -   title: Data Structures
+            uuid: f68549d2-7efa-4f4b-8321-f0e8cb776b9d
+            lessons:
+            -   title: Intro to Nested Hashes
+                uuid: c3d6d944-30f6-417a-a0a3-3a94e167343b
+                contents:
+                -   title: Nested Hashes Intro
+                    source: https://github.com/learn-co-curriculum/nested-hashes-intro
+                    uuid: 7169014d-7677-4589-b617-4625af66e623
+            -   title: Building Nested Hashes
+                uuid: 93102482-b7a8-4a8b-bf9f-a4c9a6ec0ebf
+                contents:
+                -   title: Building Nested Hashes
+                    source: https://github.com/learn-co-curriculum/building-nested-hashes
+                    uuid: 57c3ea6a-8cd2-4bd3-8cf3-7397fec44200
+            -   title: Nested Hashes Lab
+                uuid: 719d7c1f-1f48-41c6-920d-3a28c831dcca
+                contents:
+                -   title: Ruby Intro To Hashes Lab
+                    source: https://github.com/learn-co-curriculum/ruby-intro-to-hashes-lab
+                    uuid: a5693269-0f49-4901-8f6c-81e41509ecb6
+            -   title: Multitype Collections Lab
+                uuid: 04dffa37-7f15-4d9e-8ee6-24b898c624f5
+                contents:
+                -   title: Simple Nesting
+                    source: https://github.com/learn-co-curriculum/simple-nesting
+                    uuid: 83a4e178-b9f8-49b1-ad55-6725b6e81ef0
+            -   title: Inserting into Nested Hashes
+                uuid: 850c7284-5027-4149-a1fd-6c345f45b2f5
+                contents:
+                -   title: Building Nested Hash Readme
+                    source: https://github.com/learn-co-curriculum/building-nested-hash-readme
+                    uuid: e0daf333-680c-4b7e-b213-7c0354954e3a
+            -   title: Nested Hash Iteration
+                uuid: c764f2d0-1fac-4c62-8cb7-b062f9dffd16
+                contents:
+                -   title: Nested Hash Iteration
+                    source: https://github.com/learn-co-curriculum/nested-hash-iteration
+                    uuid: e6a360a0-b699-4553-aede-5da27a105ba0
+            -   title: Iterating over Nested Hashes Codealong
+                uuid: b39a6fcf-13ea-4f0e-8b23-35d91f739d60
+                contents:
+                -   title: Nested Hash Iteration Code Along
+                    source: https://github.com/learn-co-curriculum/nested-hash-iteration-code-along
+                    uuid: 8e9a7579-bfb3-4525-a7b7-62b132823f3a
+            -   title: Other Hashes Codealong
+                uuid: 6596c9e1-897f-4e42-a58a-03782645bd71
+                contents:
+                -   title: Other Hash Methods Code Along
+                    source: https://github.com/learn-co-curriculum/other-hash-methods-code-along
+                    uuid: a34e7666-8b3d-49ff-a96f-ee31a06a3543
+            -   title: Hashes Manipulation Lab
+                uuid: 11ce28aa-c039-4a26-a7b9-cda65c6e7fca
+                contents:
+                -   title: Apples And Holidays
+                    source: https://github.com/learn-co-curriculum/apples-and-holidays
+                    uuid: b7c1e39b-7472-46e9-99d5-c60341c618eb
+    -   title: Test
+        uuid: b6401785-379a-4b1a-b44d-9e0a17e26d56
+        units: []
