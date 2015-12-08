@@ -3,18 +3,534 @@ track:
     title: Full Stack Web Development
     uuid: dbe2cdc5-21a5-4519-a20c-9c602e2c8107
     topics:
+    -   title: Welcome
+        uuid: 9155d94b-4ee0-439e-85c3-55476c079c18
+        units:
+        -   title: Welcome
+            uuid: a7c82c8b-f3b9-4344-8864-be53b7607fe9
+            lessons:
+            -   title: Welcome to Learn Verified
+                uuid: 59b8ea22-0081-4580-ba66-d697f291296c
+                contents:
+                -   title: Welcome To Learn Verified
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-verified
+                    uuid: f6ae085e-933c-4090-9811-42a79bb17365
+            -   title: xmas-project
+                uuid: 5459ed72-aba1-4d17-b03b-576f0ca76030
+                contents:
+                -   title: Xmas Project
+                    source: https://github.com/DEV-learn-co-curriculum/xmas-project
+                    uuid: 564a9942-3810-42fb-b8fc-7bd4542bde88
+            -   title: halloween proj
+                uuid: 57054221-0b06-48e5-9992-0181c5842d39
+                contents:
+                -   title: Halloween Project
+                    source: https://github.com/DEV-learn-co-curriculum/halloween-project
+                    uuid: a1428c06-98d6-4524-b718-559b9de15225
     -   title: Git and GitHub
         uuid: 28d2c1aa-22cf-4af1-8841-04af7fbe4dff
         units:
-        -   title: Collaboration
-            uuid: 589b4393-f8fd-42cb-893d-1b588fe9f162
+        -   title: Git
+            uuid: e319c8fa-a79c-4136-9745-0798ad292f68
             lessons:
-            -   title: Git and GitHub Quiz
-                uuid: 0f31fbf7-80aa-4e15-b89c-01b791a894cf
+            -   title: Intro to Version Control
+                uuid: f57b1726-4b6b-468d-89ad-1cee516b068a
+                contents:
+                -   title: Git Version Control 101
+                    source: https://github.com/learn-co-curriculum/git-version-control-101
+                    uuid: ba554c50-0998-4761-8dc6-6b71d9e9c8ca
+            -   title: Git Repository Basics
+                uuid: 2f26ef12-13e8-42f9-85d0-79123fd4146d
+                contents:
+                -   title: Git Basics Readme
+                    source: https://github.com/learn-co-curriculum/git-basics-readme
+                    uuid: 0d7d6fdd-fdaf-42d7-9073-c750320b1fd4
+            -   title: Git Repository Basics Quiz
+                uuid: af0a22e1-5c37-4893-8104-d17852d721c1
+                contents:
+                -   title: Git Basics Quiz
+                    source: https://github.com/learn-co-curriculum/git-basics-quiz
+                    uuid: c75705f9-affa-4fe1-87b0-24c5a79951ef
+        -   title: Github Remotes
+            uuid: c3d86e7c-6cb0-467e-84c5-ba0aff91304a
+            lessons:
+            -   title: Git Remotes and Github
+                uuid: d174c92c-b5e4-4d39-92e0-795503d8603f
+                contents:
+                -   title: Git Remotes With Github Readme
+                    source: https://github.com/learn-co-curriculum/git-remotes-with-github-readme
+                    uuid: 3a63a4b0-9741-495b-985d-25acf194a274
+            -   title: Git Remotes and Github Codealong
+                uuid: 6082e3f5-ea79-4e22-8671-44a50e7d0449
+                contents:
+                -   title: Git Remote Code Along
+                    source: https://github.com/learn-co-curriculum/git-remote-code-along
+                    uuid: 62783734-9e7a-4702-b706-8dc3f8668a50
+            -   title: Git Forks and Clones
+                uuid: 37fb1c4c-c376-4d67-a066-a95b51debe63
+                contents:
+                -   title: Forks And Clones Readme
+                    source: https://github.com/learn-co-curriculum/forks-and-clones-readme
+                    uuid: 47c54c2c-23d9-4535-9ef0-d4f7b77ac960
+        -   title: Collaboration
+            uuid: b5e20887-0ece-457f-941c-07cc11af5e31
+            lessons:
+            -   title: Git Collaboration
+                uuid: 42ab5e2e-73bb-46b2-870d-8fcb272de405
+                contents:
+                -   title: Git Collaboration Readme
+                    source: https://github.com/learn-co-curriculum/git-collaboration-readme
+                    uuid: 9dee5271-e3e8-4ef5-b8cf-62202ecc109e
+            -   title: Git Collaboration Quiz
+                uuid: 17e94a42-e0ec-4737-b2ad-4060ecb62dfb
+                contents:
+                -   title: Git Collaboration Quiz
+                    source: https://github.com/learn-co-curriculum/git-collaboration-quiz
+                    uuid: fa67f873-e845-4114-8907-49c4f5d0befa
+            -   title: Github Pull Requests
+                uuid: 69d926e7-5c26-4830-b511-4c77c6e261e1
+                contents:
+                -   title: Github Pull Request Basics
+                    source: https://github.com/learn-co-curriculum/github-pull-request-basics
+                    uuid: f5cf155e-6a7f-4447-986a-0d043a07c63d
+            -   title: Git Basics Quiz
+                uuid: 42642533-39b9-4386-96af-c5627b3a6dcd
                 contents:
                 -   title: Git Github Learn Quiz
                     source: https://github.com/learn-co-curriculum/git-github-learn-quiz
-                    uuid: f17e0963-4f72-4751-9fd3-2e03e8df98a8
+                    uuid: b75fccfa-2371-43ad-a92d-858eb245541b
+        -   title: Your Learner Profile
+            uuid: 91e6fb0a-d394-48db-935d-24a837c08fa5
+            lessons:
+            -   title: 'Your Learner Profile '
+                uuid: 1cec9e28-eb48-457e-8f7c-25840db4fabf
+                contents: []
+    -   title: HTML and CSS
+        uuid: 640d8387-59f7-4055-a36b-5b3cd9fd20a2
+        units:
+        -   title: Web Fundamentals
+            uuid: 48dc6c04-5c4c-4d40-801f-77a93ddc5e72
+            lessons:
+            -   title: How the Web Works
+                uuid: 21c4647b-1edb-42de-a780-44e9b960e1fe
+                contents:
+                -   title: How The Web Works
+                    source: https://github.com/learn-co-curriculum/how-the-web-works
+                    uuid: fda06c7b-7550-4b1d-af6c-e0d12cf68d6a
+            -   title: Site Planning
+                uuid: e9f272f5-d8c5-44f5-8a24-71a4e08cd1ba
+                contents:
+                -   title: Site Planning
+                    source: https://github.com/learn-co-curriculum/site-planning
+                    uuid: 2183f87f-bcc2-4112-b7e6-32039ffc6224
+        -   title: HTML Fundamentals
+            uuid: 40653750-5ab9-4565-8795-582c2ad32f41
+            lessons:
+            -   title: HTML Fundamentals
+                uuid: 733357a6-3014-4f8b-9dc1-e7fcd8b7b169
+                contents:
+                -   title: Html Fundamentals
+                    source: https://github.com/learn-co-curriculum/html-fundamentals
+                    uuid: 84882f2e-cd9b-47da-9edc-482e19d67b34
+            -   title: Setting Up a New Site
+                uuid: 802c21f7-3191-4d6f-b406-a8399dbae846
+                contents:
+                -   title: Setting Up A New Site
+                    source: https://github.com/learn-co-curriculum/setting-up-a-new-site
+                    uuid: 7cc5425d-74a4-4148-80ea-c027378ae7fa
+            -   title: Document Structure
+                uuid: 047a6b77-555c-40e4-a176-3162765a731e
+                contents:
+                -   title: Document Structure
+                    source: https://github.com/learn-co-curriculum/document-structure
+                    uuid: c068cc70-8f42-46c3-813c-e685193c9fa8
+            -   title: Text Formatting
+                uuid: 8646e9a9-bbd4-4470-92dc-9e8d80795bab
+                contents:
+                -   title: Text Formatting
+                    source: https://github.com/learn-co-curriculum/text-formatting
+                    uuid: 78fc15aa-e1eb-410b-adc3-20f00422d504
+            -   title: HTML Lists
+                uuid: acadcbb9-a7a5-4d58-8233-a807eea56309
+                contents:
+                -   title: Html Lists
+                    source: https://github.com/learn-co-curriculum/html-lists
+                    uuid: c4d4b8a0-7a47-481c-a089-53336727f32d
+            -   title: HTML Tables
+                uuid: a7e55df9-b019-46d5-af8c-d017bd40ac9c
+                contents:
+                -   title: Html Tables
+                    source: https://github.com/learn-co-curriculum/html-tables
+                    uuid: ad088a8c-d668-4ae8-ba24-822f9fa5b797
+            -   title: HTML Images
+                uuid: 7acc5450-b470-4c90-817b-a5ba8c5da993
+                contents:
+                -   title: Html Images
+                    source: https://github.com/learn-co-curriculum/html-images
+                    uuid: 2e1a41e7-b114-491c-8162-7d86e277e3da
+            -   title: HTML Links
+                uuid: a29b78b3-48d2-46a1-be96-adb794394516
+                contents:
+                -   title: Html Links
+                    source: https://github.com/learn-co-curriculum/html-links
+                    uuid: de993495-382e-4023-b368-6f355e08742f
+            -   title: HTML Backing Up Changes
+                uuid: 4b404f7f-9141-402f-9c67-0016ea5eba89
+                contents:
+                -   title: Html Backing Up Changes
+                    source: https://github.com/learn-co-curriculum/html-backing-up-changes
+                    uuid: 502a80fe-8762-411b-9c4f-df3670fab955
+            -   title: HTML Validation
+                uuid: c45ac620-f4b9-427f-ac6b-02e1ff0b6cc2
+                contents:
+                -   title: Html Validation
+                    source: https://github.com/learn-co-curriculum/html-validation
+                    uuid: d2507d9c-2e87-42e2-ac07-e5c3fb70b444
+            -   title: HTML Fundamentals Quiz
+                uuid: ce9865b2-7355-448d-a589-afec5d9d8a26
+                contents:
+                -   title: Quiz Html Fundamentals
+                    source: https://github.com/learn-co-curriculum/quiz-html-fundamentals
+                    uuid: a8b5d1d9-9168-4a44-9668-8674b6c8ace4
+            -   title: Dev Tools Super Power
+                uuid: ed86f347-36b7-4823-882c-64678a10c320
+                contents:
+                -   title: Dev Tools Super Power
+                    source: https://github.com/learn-co-curriculum/dev-tools-super-power
+                    uuid: 80029993-20e4-44f4-af6c-835824122d85
+            -   title: HTML Album Cover
+                uuid: fd30380b-d43b-4e73-a572-fb616622e08f
+                contents:
+                -   title: Html Album Cover
+                    source: https://github.com/learn-co-curriculum/html-album-cover
+                    uuid: c510031e-1193-48f5-88be-bcc01b35077d
+            -   title: HTML Riyadh Blog
+                uuid: 2919ec24-ac99-4521-950e-49a451a3e5e2
+                contents:
+                -   title: Riyadh Blog
+                    source: https://github.com/learn-co-curriculum/riyadh-blog
+                    uuid: 513fc56e-f63f-4041-a69d-5c0743144f5b
+            -   title: HTML Issue Bot 9000
+                uuid: 95cb86ef-b304-4985-b69f-25a2abd96ff9
+                contents:
+                -   title: Html Issue Bot 9000
+                    source: https://github.com/learn-co-curriculum/html-issue-bot-9000
+                    uuid: 420a1657-27e2-447f-bc2b-e37e434a8c9c
+        -   title: Site Publishing
+            uuid: 7ea0bfbd-12d3-41e4-aba9-9e668c1191a8
+            lessons:
+            -   title: Site Publishing to FTP
+                uuid: a62ad506-669a-4576-a435-2e432a7f991a
+                contents:
+                -   title: Site Publishing To Ftp
+                    source: https://github.com/learn-co-curriculum/site-publishing-to-ftp
+                    uuid: f95768d4-c6d2-4df1-96ac-688320adf7e4
+            -   title: Site Publishing to Github Pages
+                uuid: b757603d-6b06-47f3-b47d-3346cff1c06f
+                contents:
+                -   title: Site Publishing To Github Pages
+                    source: https://github.com/learn-co-curriculum/site-publishing-to-github-pages
+                    uuid: 995db46b-e7f8-462e-9445-7368578d0e65
+        -   title: HTML5
+            uuid: 7193a5d4-f3e4-424f-9ab5-3d92dfe5a5af
+            lessons:
+            -   title: HTML Forms and iFrames
+                uuid: a5ff4259-e504-4032-84af-eea21da33b68
+                contents:
+                -   title: Html Forms And I Frames
+                    source: https://github.com/learn-co-curriculum/HTML-Forms-and-iFrames
+                    uuid: d9e81105-1aeb-4fef-a00d-433cc7236e0e
+            -   title: HTML Map and Contact Form Codealong
+                uuid: 2130fd11-a14c-47e7-8ce5-738e5f20a99c
+                contents:
+                -   title: Html Map Contact Form Code Along
+                    source: https://github.com/learn-co-curriculum/html-map-contact-form-code-along
+                    uuid: 63f27454-d88d-4ba3-ae7c-c9952ed27d3c
+            -   title: 'HTML5 Media '
+                uuid: d5a0f838-e7d3-478e-9289-04ad8bca57a2
+                contents:
+                -   title: Html5 Media
+                    source: https://github.com/learn-co-curriculum/HTML5-Media
+                    uuid: f5dea25a-5c27-440b-b419-19d9b12b5f0a
+            -   title: HTML5 Video Embed Codealong
+                uuid: 9836e582-f80c-4e37-8331-754c20685242
+                contents:
+                -   title: Html5 Video Embed Code Along
+                    source: https://github.com/learn-co-curriculum/html5-video-embed-code-along
+                    uuid: 8d4bfb71-7179-48ef-bff0-15a8781b374d
+            -   title: HTML5 Semantic Elements
+                uuid: cf306604-bf93-481c-8065-89672baeae0c
+                contents:
+                -   title: Html5 Semantic Elements
+                    source: https://github.com/learn-co-curriculum/HTML5-Semantic-Elements
+                    uuid: c3843fb6-c634-40b3-80d5-91e466720d96
+            -   title: HTLM5 Semantic Elements Codealong
+                uuid: 9353ed08-2bf6-4fca-98b8-063afaaf00a5
+                contents:
+                -   title: Html5 Semantic Containers Code Along
+                    source: https://github.com/learn-co-curriculum/html5-semantic-containers-code-along
+                    uuid: d22399d4-3239-494d-a8e7-b5137336fe10
+            -   title: HTML5 Quiz
+                uuid: 29138ff4-bd3c-4a3e-830f-5f4ff17c2630
+                contents:
+                -   title: Quiz Html5
+                    source: https://github.com/learn-co-curriculum/quiz-html5
+                    uuid: 8510f4ee-5c03-42c0-9d21-d1d2f813111e
+        -   title: CSS
+            uuid: a44fd79a-bffc-4af2-a317-1ab543067746
+            lessons:
+            -   title: CSS Fundamentals
+                uuid: 62a353fc-5972-40ab-b891-386de8c19fd9
+                contents:
+                -   title: Css Fundamentals
+                    source: https://github.com/learn-co-curriculum/CSS-Fundamentals
+                    uuid: 18cbd968-c8be-4543-88fa-fd9f652e350e
+            -   title: CSS Codealong
+                uuid: 64885706-d877-4235-91f7-1c5ac2aa78c3
+                contents:
+                -   title: Css Styling
+                    source: https://github.com/learn-co-curriculum/CSS-Styling
+                    uuid: f3f8a789-d768-465c-9fb4-ae6f891ab23b
+            -   title: CSS Fundamentals Quiz
+                uuid: ea05c088-9879-4156-84d4-9a217a4f4852
+                contents:
+                -   title: Quiz Css Fundamentals
+                    source: https://github.com/learn-co-curriculum/quiz-css-fundamentals
+                    uuid: 9b4e5168-9fec-4df4-bcd2-daf3424185e4
+            -   title: CSS My Little Rainbow
+                uuid: d94a666c-e3eb-4476-9e48-bfb352a48c4d
+                contents:
+                -   title: My Little Rainbow
+                    source: https://github.com/learn-co-curriculum/my-little-rainbow
+                    uuid: 94e444c8-0469-412b-9e6c-2ad07c7b15de
+            -   title: CSS Kitten Wheelbarrow
+                uuid: 956af6a8-0ac3-4c34-ba74-91c2b680aca5
+                contents:
+                -   title: Css Kitten Wheelbarrow
+                    source: https://github.com/learn-co-curriculum/css-kitten-wheelbarrow
+                    uuid: 2cc76b97-8d38-4e37-9d24-a4314ac3978e
+            -   title: CSS Graffiti Override
+                uuid: c46dcfe6-9554-4fe2-8dbf-f7188ff52c66
+                contents:
+                -   title: Css Graffiti Override
+                    source: https://github.com/learn-co-curriculum/css-graffiti-override
+                    uuid: 2023bc1b-9433-4883-88ca-7d15c5c8cb05
+            -   title: CSS Issue Bot 9000
+                uuid: d9430a9a-f67e-4577-904f-c78f7b351738
+                contents:
+                -   title: Css Issue Bot 9000
+                    source: https://github.com/learn-co-curriculum/css-issue-bot-9000
+                    uuid: 68dcda92-aad0-4301-b862-a6e50afa5bd0
+            -   title: Deploy Your Profile Page
+                uuid: c7b1cf0f-a36f-466e-a2f4-c5705c7c6bda
+                contents:
+                -   title: Learn Deploy On Day One
+                    source: https://github.com/learn-co-curriculum/learn-deploy-on-day-one
+                    uuid: cf173704-f760-4c3b-b214-8391036fa58c
+        -   title: Page Layout
+            uuid: c4771207-6981-4656-a551-3340e4619414
+            lessons:
+            -   title: Box Model
+                uuid: 4ad6f64c-3044-4ff4-b1a1-0e37e3226f3e
+                contents:
+                -   title: Box Model
+                    source: https://github.com/learn-co-curriculum/Box-Model
+                    uuid: 8815bc81-4b39-4734-94bd-b80a57d073de
+            -   title: Layout Types
+                uuid: 0e6ee655-4694-4886-bdf5-2cffd55b08ab
+                contents:
+                -   title: Layout Types
+                    source: https://github.com/learn-co-curriculum/layout-types
+                    uuid: 4f1c4edc-5a8c-44fc-a12f-03fe15a3bb0c
+            -   title: Overflow
+                uuid: a0c270a9-a2c1-4d4e-b105-0583febb1773
+                contents:
+                -   title: Overflow
+                    source: https://github.com/learn-co-curriculum/overflow
+                    uuid: 56e33f6d-e360-4847-aedb-441b131148d3
+            -   title: Fluid Height
+                uuid: e5fe5cea-03cc-4959-b938-12739158dada
+                contents:
+                -   title: Fluid Height
+                    source: https://github.com/learn-co-curriculum/fluid-height
+                    uuid: 5dd2930b-fb8c-400d-88a7-d1620da8b0a5
+            -   title: Display
+                uuid: 2809e177-5264-4643-b45b-a383e5da15d2
+                contents:
+                -   title: Display
+                    source: https://github.com/learn-co-curriculum/display
+                    uuid: 8eb580eb-3c1f-4b93-aa62-7428d82d69dd
+            -   title: Float
+                uuid: de61849b-1c0d-45c8-b4f0-aea31606cc25
+                contents:
+                -   title: Float
+                    source: https://github.com/learn-co-curriculum/float
+                    uuid: 6814c34b-d52e-46be-a546-b28756796b3b
+            -   title: Clearfix
+                uuid: 8d703ebc-d8dd-4df4-bab0-88d41fd32ff8
+                contents:
+                -   title: Clearfix
+                    source: https://github.com/learn-co-curriculum/clearfix
+                    uuid: 325cb302-108f-4054-8234-1de228b8ba9b
+            -   title: Centering
+                uuid: 43a47ca8-a713-4b73-828d-c6f782149443
+                contents:
+                -   title: Centering
+                    source: https://github.com/learn-co-curriculum/centering
+                    uuid: 3811e50d-cbd5-483b-a28d-e0a8f706bd17
+            -   title: Column Structure
+                uuid: 77b5a467-214e-4a72-98fb-157b312a8be0
+                contents:
+                -   title: Column Structure
+                    source: https://github.com/learn-co-curriculum/column-structure
+                    uuid: 2f92a3d8-da29-4637-8350-e629ec51dfd8
+            -   title: Positioning
+                uuid: c440f1f9-114c-4744-aaf8-cb24a20496ec
+                contents:
+                -   title: Positioning
+                    source: https://github.com/learn-co-curriculum/positioning
+                    uuid: 770be328-57c3-4c0e-80c4-ba2049746182
+            -   title: Z Index
+                uuid: c0b20ce6-5b23-40f7-82e7-2912e3c2f9a1
+                contents:
+                -   title: Z Index
+                    source: https://github.com/learn-co-curriculum/z-index
+                    uuid: 64f03303-6d96-4c60-8958-f8b273cd1568
+            -   title: Codealong Creating Columns
+                uuid: 3dc6f78a-9b6b-45a3-a9d5-1ce505cac518
+                contents:
+                -   title: Codealong Creating Columns
+                    source: https://github.com/learn-co-curriculum/Codealong-Creating-Columns
+                    uuid: 1dcfc4a6-7841-4822-9916-06b9dedca63c
+            -   title: CSS Layout Quiz
+                uuid: 8bca5293-dedc-4029-a0b7-a86f7fa842dc
+                contents:
+                -   title: Quiz Css Layout
+                    source: https://github.com/learn-co-curriculum/quiz-css-layout
+                    uuid: d8b71d2a-46aa-4082-929a-f31740585046
+            -   title: 'Zetsy '
+                uuid: 4c9bec2e-a7b5-4bc1-99f9-8af5d874ffd1
+                contents:
+                -   title: Fe Zetsy
+                    source: https://github.com/learn-co-curriculum/fe-zetsy
+                    uuid: 6941421d-004b-4749-a6f5-fb2519c6c13b
+            -   title: ZHW Shoes Layout
+                uuid: 4f7da756-b063-492c-8858-916322cd87a4
+                contents:
+                -   title: Hs Zhw Shoes Layout
+                    source: https://github.com/learn-co-curriculum/hs-zhw-shoes-layout
+                    uuid: aab1c4d4-8e47-4f43-9db3-e2595e1dd16f
+        -   title: Box Styles
+            uuid: 70c5c495-9617-4c41-8b06-c7ed794494d4
+            lessons:
+            -   title: Box Style Codealong
+                uuid: e05fbaa4-0de9-4669-b657-f757f1dbd334
+                contents:
+                -   title: Box Style Codealong
+                    source: https://github.com/learn-co-curriculum/box-style-codealong
+                    uuid: 9e31f6df-25a0-4a7a-896b-6bb8107bcc3f
+        -   title: Responsive Layout
+            uuid: f1ed70d0-e164-4755-ad87-fee344225b97
+            lessons:
+            -   title: Building Responsive Sites
+                uuid: 186e8cbe-c7e8-4fbd-a585-3f94f103a2c7
+                contents:
+                -   title: Building Responsive Sites
+                    source: https://github.com/learn-co-curriculum/building-responsive-sites
+                    uuid: 9e20daaa-10e6-451f-8730-152e0d1c2be6
+            -   title: Media Queries
+                uuid: 117469f8-5248-4d23-8007-5e6b9766170e
+                contents:
+                -   title: Media Queries
+                    source: https://github.com/learn-co-curriculum/media-queries
+                    uuid: 0e504c40-306e-415d-87b6-182ff8b39638
+            -   title: Responsive Media
+                uuid: a5f139c6-ac8a-4cf1-9e14-df42c8e224e9
+                contents:
+                -   title: Responsive Media
+                    source: https://github.com/learn-co-curriculum/responsive-media
+                    uuid: 134e5cde-765c-4d35-bdf6-1e31b735fd53
+            -   title: Responsive Type
+                uuid: 41528030-356b-4ab5-9e69-6fe78a5d107a
+                contents:
+                -   title: Responsive Type
+                    source: https://github.com/learn-co-curriculum/responsive-type
+                    uuid: 02a25989-87cb-429c-b70f-64f18f1fe972
+            -   title: Responsive Layout
+                uuid: 52fe65b7-e52d-44e9-95a4-fadb37704b62
+                contents:
+                -   title: Responsive Layout
+                    source: https://github.com/learn-co-curriculum/responsive-layout
+                    uuid: dd935643-e4cf-436d-8c4e-4f2a5f0eee2d
+            -   title: Viewport
+                uuid: ae6251d5-d286-4495-8277-9e91f4de1cf8
+                contents:
+                -   title: Viewport
+                    source: https://github.com/learn-co-curriculum/viewport
+                    uuid: 32533457-aada-4cf2-b587-5619aacb7810
+            -   title: Adding Responsive Features Codealong
+                uuid: 433549c8-9e7b-4ca4-9227-ba3d8cd92508
+                contents:
+                -   title: Adding Responsive Features
+                    source: https://github.com/learn-co-curriculum/adding-responsive-features
+                    uuid: 4e6d844d-cbb3-4f0d-b4a5-f5b914c47d66
+            -   title: Responsive Layout Quiz
+                uuid: 246d84e9-7a2b-46ca-a3ba-8d4a60a9c3a7
+                contents:
+                -   title: Fe Quiz 05
+                    source: https://github.com/learn-co-curriculum/fe-quiz-05
+                    uuid: 8f92d7eb-0168-4193-a73c-19ffc6520ae9
+            -   title: Animal Save
+                uuid: a6ec4db3-3c48-49ff-8893-389796faea7f
+                contents:
+                -   title: Animal Save
+                    source: https://github.com/learn-co-curriculum/animal-save
+                    uuid: 55db4357-a1f0-4eb6-a28b-b78b7dd79159
+        -   title: Bootstrap Framework
+            uuid: ea1f3031-7853-4b4c-b71f-6d2b3eea0675
+            lessons:
+            -   title: Introduction to Bootstrap
+                uuid: 3718e1c1-80bb-4db4-a4ee-1c00dc4186cf
+                contents:
+                -   title: Bootstrap Introduction
+                    source: https://github.com/learn-co-curriculum/bootstrap-introduction
+                    uuid: 55bab472-cfb4-43e6-93a1-b2221430a14b
+            -   title: Bootstrap Codealong
+                uuid: efce5de4-ee64-40e1-9419-46122bf4e528
+                contents:
+                -   title: Bootstrap Codealong
+                    source: https://github.com/learn-co-curriculum/bootstrap-codealong
+                    uuid: 0abe190b-182f-4ae4-8898-f621858bed6f
+            -   title: Bootstrap Grid System
+                uuid: 7ef2c37c-d910-49c1-987e-62fdc3e98cf4
+                contents:
+                -   title: Bootstrap Grid System
+                    source: https://github.com/learn-co-curriculum/bootstrap-grid-system
+                    uuid: c65201df-f1c8-46cc-a9f2-806beee679ce
+            -   title: Layout Grids Codealong
+                uuid: baba7eb3-2afe-461d-8c34-ab43da78030c
+                contents:
+                -   title: Layouts Grids Code Along
+                    source: https://github.com/learn-co-curriculum/layouts-grids-code-along
+                    uuid: 38c9f3cb-d4ce-4500-aebb-d32c33aa8c5d
+            -   title: Bootstrap Navbar Codealong
+                uuid: 9e9684ec-d7e9-44c0-98a9-301de53d001f
+                contents:
+                -   title: Bootstrap Navbar Code Along
+                    source: https://github.com/learn-co-curriculum/bootstrap-navbar-code-along
+                    uuid: 92c3a7f6-9f46-4bbf-ac91-6c82b6c5b617
+            -   title: Bootstrap JS Plugins
+                uuid: 3f5187bf-4e8e-402c-8b96-0eee6c3e2261
+                contents:
+                -   title: Boostrap Js Plugins
+                    source: https://github.com/learn-co-curriculum/boostrap-js-plugins
+                    uuid: 1afac6bf-1b64-4598-8b7c-661159f2b7e5
+            -   title: Bootstrap Image Carousel Codealong
+                uuid: 26cf1a31-70c0-4d50-9a94-83e4c2852f0d
+                contents:
+                -   title: Bootstrap Image Carousel Code Along
+                    source: https://github.com/learn-co-curriculum/bootstrap-image-carousel-code-along
+                    uuid: 8ad74b26-c6ad-4ff6-96e5-285b63fd0f06
     -   title: Procedural Ruby
         uuid: 1b7193f0-9c8e-4944-b337-d3ba0b62c0cb
         units:
@@ -474,6 +990,963 @@ track:
                 -   title: Apples And Holidays
                     source: https://github.com/learn-co-curriculum/apples-and-holidays
                     uuid: b7c1e39b-7472-46e9-99d5-c60341c618eb
-    -   title: Test
-        uuid: b6401785-379a-4b1a-b44d-9e0a17e26d56
-        units: []
+        -   title: Regex
+            uuid: a362b497-f4d0-4c2b-83dd-5a60c9cc5a68
+            lessons:
+            -   title: What's a Pattern
+                uuid: 730076e7-7327-4d1c-a1f2-14418b15830d
+                contents:
+                -   title: Regex What Is A Pattern
+                    source: https://github.com/learn-co-curriculum/regex-what-is-a-pattern
+                    uuid: 80020a9c-36e6-483e-9f31-949abbf05bb4
+            -   title: Regex Basics
+                uuid: 5e835717-9962-48d9-a5bb-c7b417c07ee6
+                contents:
+                -   title: Regex Basics Readme
+                    source: https://github.com/learn-co-curriculum/regex-basics-readme
+                    uuid: f87566c2-8f1f-4ee0-b990-7d312cb67ba1
+            -   title: Ruby Methods with Regex
+                uuid: 8dc7e421-15f5-497c-940e-025e3a5c2f22
+                contents:
+                -   title: Regex Match Scan Grep Methods Readme
+                    source: https://github.com/learn-co-curriculum/regex-match-scan-grep-methods-readme
+                    uuid: e6f328de-aa22-4eb6-b96d-03f48ecd2681
+            -   title: Regex Lab
+                uuid: b3d11583-9949-4e54-87cf-a72651e3a6bc
+                contents:
+                -   title: Regex Lab
+                    source: https://github.com/learn-co-curriculum/regex-lab
+                    uuid: 3b682c0d-36a5-4958-91d1-4f55762cf2b6
+    -   title: Object Oriented Ruby
+        uuid: 6c808d05-90bf-40ed-8288-d31dc0af9891
+        units:
+        -   title: Intro to Object Orientation
+            uuid: d291b666-4ab1-4da8-8cdd-03c3004e4db4
+            lessons:
+            -   title: Intro to Object Orientation
+                uuid: bf35ef51-a04f-4f11-acee-d0f8270f96ff
+                contents:
+                -   title: Ruby Intro To Oo
+                    source: https://github.com/learn-co-curriculum/ruby-intro-to-oo
+                    uuid: a584c83f-77c3-4b21-93c1-c497d90f27a6
+        -   title: Classes and Instances
+            uuid: 00222ad8-0cad-49c5-8b6c-2ab1e6aa2447
+            lessons:
+            -   title: Intro to Classes and Instances
+                uuid: bb3f2262-86ec-4074-a161-dac78a367b93
+                contents:
+                -   title: Ruby Intro To Classes And Instances
+                    source: https://github.com/learn-co-curriculum/ruby-intro-to-classes-and-instances
+                    uuid: 00fcf2f0-6f0e-4995-877f-763135409a65
+            -   title: Classes and Instances Lab
+                uuid: 9b630e5f-de9c-443d-9913-5694620e2197
+                contents:
+                -   title: Classes And Instances Lab Ruby
+                    source: https://github.com/learn-co-curriculum/classes-and-instances-lab-ruby
+                    uuid: cca10891-5492-4a21-8c1e-f43c21e31258
+        -   title: Instance Methods
+            uuid: b5fa7f2b-f997-42e6-b9ca-9bbd31a10068
+            lessons:
+            -   title: Instance Methods
+                uuid: 0ed6f3e7-0f32-4c8a-ab66-39d24bbcbefa
+                contents:
+                -   title: Instance Methods Readme Ruby
+                    source: https://github.com/learn-co-curriculum/instance-methods-readme-ruby
+                    uuid: 528c3814-fe9e-4687-a78c-4ef4feb54883
+            -   title: Instance Methods Lab
+                uuid: 78ec0d35-33f0-42ca-b61c-f574dd5e46b7
+                contents:
+                -   title: Instance Methods Lab Ruby
+                    source: https://github.com/learn-co-curriculum/instance-methods-lab-ruby
+                    uuid: 4247bace-6a46-4a95-8cd3-00fab16eb17d
+        -   title: Object Properties
+            uuid: 71ecb2d8-4e95-4a2b-8fb2-61a899b98590
+            lessons:
+            -   title: Instance Variables
+                uuid: 9522adeb-039b-4f8c-b2b1-af79e7b05f24
+                contents:
+                -   title: Ruby Instance Variables Lab
+                    source: https://github.com/learn-co-curriculum/ruby-instance-variables-lab
+                    uuid: b84f80fb-f61c-41c2-8f4f-c6812ed2f831
+            -   title: Object Attributes
+                uuid: 540f7017-5815-42f1-b0e3-b0da2578bc4e
+                contents:
+                -   title: Ruby Object Attrs Readme
+                    source: https://github.com/learn-co-curriculum/ruby-object-attrs-readme
+                    uuid: 608b93bf-169c-4928-b6f7-132cca51d91d
+            -   title: Object Attributes Lab
+                uuid: b4c57f09-49d3-4c33-bc66-9cb8b852760e
+                contents:
+                -   title: Ruby Object Attributes Lab
+                    source: https://github.com/learn-co-curriculum/ruby-object-attributes-lab
+                    uuid: 021729f5-abbb-4c20-bcd8-b98603f69c04
+            -   title: Object Accessors
+                uuid: d29b62af-5ea5-4e93-844a-d05896992373
+                contents:
+                -   title: Ruby Oo Macros Readme
+                    source: https://github.com/learn-co-curriculum/ruby-oo-macros-readme
+                    uuid: 71294884-b8d4-4377-8d8a-1372a9563bbe
+            -   title: Meowing Cat
+                uuid: f448fe10-2b7b-4083-ad17-9ed087f26f96
+                contents:
+                -   title: Oo Meowing Cat
+                    source: https://github.com/learn-co-curriculum/oo-meowing-cat
+                    uuid: 77b21c90-141a-4afd-9134-f93d97599751
+        -   title: Object Lifecycle
+            uuid: 486d1944-3a67-464b-970d-a94b5c166890
+            lessons:
+            -   title: Object Initialization
+                uuid: 5ec41355-6c0b-4a4c-abf4-95d34424d774
+                contents:
+                -   title: Ruby Initialization
+                    source: https://github.com/learn-co-curriculum/ruby-initialization
+                    uuid: 19cab7d5-4554-4a53-ad82-7d31b54dc50e
+            -   title: Object Initialization Lab
+                uuid: f02294d9-9ada-4e7c-9e6a-c35c1b09a624
+                contents:
+                -   title: Ruby Object Initialize Lab
+                    source: https://github.com/learn-co-curriculum/ruby-object-initialize-lab
+                    uuid: 940ce13a-6e36-4586-a50f-aa164785e54e
+            -   title: OO Basics
+                uuid: 2202d913-8c41-4278-abf0-ad38bd09e2ba
+                contents:
+                -   title: Oo Basics
+                    source: https://github.com/learn-co-curriculum/oo-basics
+                    uuid: 64b42e1a-1a87-4f39-92ef-910830946dfe
+            -   title: OO Basics with Class Constants
+                uuid: f7eff0ce-f2d7-40fc-ae38-50f4c0a62ac3
+                contents:
+                -   title: Oo Basics With Class Constants
+                    source: https://github.com/learn-co-curriculum/oo-basics-with-class-constants
+                    uuid: 77e4a4f1-d439-4885-9c82-03eb79b57792
+            -   title: OO School Domain
+                uuid: 6b078340-cea7-4ebc-b874-417e6cefd17b
+                contents:
+                -   title: School Domain
+                    source: https://github.com/learn-co-curriculum/school-domain
+                    uuid: 4a233913-c8e8-457e-8e48-8403fdd7b682
+        -   title: Object's Self
+            uuid: 17c3266b-8d88-4153-b43b-197ebf12a8a8
+            lessons:
+            -   title: Self
+                uuid: 2ab0c06e-3d4e-4218-a3ef-d43312acb844
+                contents:
+                -   title: Ruby Self Readme
+                    source: https://github.com/learn-co-curriculum/ruby-self-readme
+                    uuid: 418dd66c-a6da-466d-a2dd-c162fc6ce69f
+            -   title: OO Counting Sentences
+                uuid: fdeeb240-afbf-4292-8c49-6696ed2f8391
+                contents:
+                -   title: Oo Counting Sentences
+                    source: https://github.com/learn-co-curriculum/oo-counting-sentences
+                    uuid: 10a61a41-079f-499e-b8c1-f294acdbe4de
+        -   title: Class Variables and Methods
+            uuid: 55ab7c3f-56e1-45d4-85f7-181b6b2c6fe7
+            lessons:
+            -   title: Class Variables and Methods
+                uuid: f9ad2097-1469-4f6b-bc1e-5038fa43c086
+                contents:
+                -   title: Ruby Class Variables And Class Methods Readme
+                    source: https://github.com/learn-co-curriculum/ruby-class-variables-and-class-methods-readme
+                    uuid: fe3fbbee-5200-46fc-92e6-5e804a770baa
+            -   title: Class Variables and Methods Lab
+                uuid: 1beebe39-47e4-47cc-bf14-94ff3e310151
+                contents:
+                -   title: Ruby Class Variables And Class Methods Lab
+                    source: https://github.com/learn-co-curriculum/ruby-class-variables-and-class-methods-lab
+                    uuid: 220029fe-7a7a-45c9-ae73-80ec63ffce60
+            -   title: Private Methods
+                uuid: 152abe9a-7fd4-49d0-be3e-e007f86003d5
+                contents:
+                -   title: Ruby Public Private Methods Readme
+                    source: https://github.com/learn-co-curriculum/ruby-public-private-methods-readme
+                    uuid: 52934e3b-e885-4e56-91e0-7363e45b8c85
+        -   title: Object Models
+            uuid: 2ae470ef-1ca3-46da-8fa4-ef041338aac3
+            lessons:
+            -   title: Remembering Objects
+                uuid: ea05295c-80cb-46b6-96da-83bb340b0142
+                contents:
+                -   title: Ruby Remembering Objects Readme
+                    source: https://github.com/learn-co-curriculum/ruby-remembering-objects-readme
+                    uuid: a2b3824c-182f-47b1-a346-add336aaf9a4
+            -   title: Puppy Lab
+                uuid: 3357894b-81ec-4be6-9c57-38ecd1f02b9a
+                contents:
+                -   title: Ruby Puppy
+                    source: https://github.com/learn-co-curriculum/ruby-puppy
+                    uuid: 2d60c6b0-5563-48e2-979c-533dc9ddfaa3
+            -   title: Advanced Class Methods
+                uuid: 028d06a0-eed0-46de-9d77-3e18a9acf694
+                contents:
+                -   title: Ruby Advanced Class Methods Readme
+                    source: https://github.com/learn-co-curriculum/ruby-advanced-class-methods-readme
+                    uuid: 4bf000d8-d17e-461f-8613-23ebd34c9480
+            -   title: Advanced Class Methods Lab
+                uuid: 86d2265a-161b-4070-ade6-406d10d4f103
+                contents:
+                -   title: Ruby Advanced Class Methods Lab
+                    source: https://github.com/learn-co-curriculum/ruby-advanced-class-methods-lab
+                    uuid: 1c5ab9bb-796c-484c-84a9-fa1d063c35ac
+        -   title: Object Labs
+            uuid: 3fa84466-90f5-4db6-8da5-8140facec3ca
+            lessons:
+            -   title: OO Email Parser
+                uuid: f8dc720f-3c15-4a22-9de4-2920d050a7c8
+                contents:
+                -   title: Oo Email Parser
+                    source: https://github.com/learn-co-curriculum/oo-email-parser
+                    uuid: d4f1a7f0-9966-4048-b745-45fe1a6887b0
+            -   title: OO Anagram Detector
+                uuid: 8a263534-de7d-4f54-a91b-c93ed6e8eea6
+                contents:
+                -   title: Anagram Detector
+                    source: https://github.com/learn-co-curriculum/anagram-detector
+                    uuid: 34e5aada-39db-4ba1-8487-ae6200dba014
+            -   title: OO Cash Register
+                uuid: 04dbe34f-19fb-4892-8fe0-912060e8094a
+                contents:
+                -   title: Oo Cash Register
+                    source: https://github.com/learn-co-curriculum/oo-cash-register
+                    uuid: 64cd6d84-984a-4a3d-ac43-04d6bfb7f7e1
+        -   title: Object Relationships
+            uuid: 7d8cb243-7196-4d3f-a0d3-f592ac06863c
+            lessons:
+            -   title: Intro to Object Relationships
+                uuid: e51f6254-1725-4c65-8818-5a096094d024
+                contents:
+                -   title: Ruby Intro To Object Relationships With Belongs To
+                    source: https://github.com/learn-co-curriculum/ruby-intro-to-object-relationships-with-belongs-to
+                    uuid: e7389e9e-935c-475d-b949-0009f9ada8ec
+            -   title: Belongs to Object Lab
+                uuid: 8aaf53bf-9c08-4d83-8fa0-fb35da99610b
+                contents:
+                -   title: Ruby Objects Belong To Lab
+                    source: https://github.com/learn-co-curriculum/ruby-objects-belong-to-lab
+                    uuid: 83898acb-2366-4cc5-a917-00787d32d946
+            -   title: Has Many Object
+                uuid: 420039fa-082d-4457-8b96-bc5deacb9718
+                contents:
+                -   title: Ruby Objects Has Many Readme
+                    source: https://github.com/learn-co-curriculum/ruby-objects-has-many-readme
+                    uuid: 251938a5-2268-49e2-87b0-cf76dfe51a46
+            -   title: Has Many Object Lab
+                uuid: 3d803011-2a88-4112-9db7-55ed444b46dc
+                contents:
+                -   title: Ruby Objects Has Many Lab
+                    source: https://github.com/learn-co-curriculum/ruby-objects-has-many-lab
+                    uuid: 26617a30-826d-4ce9-a729-aab370f71882
+            -   title: Collaborating Objects
+                uuid: 5b3c52ac-64f2-4dbe-a076-dfff4c0a5a2e
+                contents:
+                -   title: Ruby Collaborating Objects Readme
+                    source: https://github.com/learn-co-curriculum/ruby-collaborating-objects-readme
+                    uuid: a73372e4-71c7-48ee-91ee-045cb1817690
+            -   title: Collaborating Objects Lab
+                uuid: dec35f40-c1e4-4c24-8823-99fb45cad1a2
+                contents:
+                -   title: Ruby Collaborating Objects Lab
+                    source: https://github.com/learn-co-curriculum/ruby-collaborating-objects-lab
+                    uuid: 0f51beff-fcfa-4e09-9a7e-8bd40591b11e
+            -   title: OO My Pets
+                uuid: 08cb9dae-c18c-40ac-867a-d326249015a7
+                contents:
+                -   title: Oo My Pets
+                    source: https://github.com/learn-co-curriculum/oo-my-pets
+                    uuid: b4bf0188-de51-48ac-96bc-a5a36ca431ca
+            -   title: OO Kickstarter
+                uuid: 7c357488-8bdf-498a-9dff-edefa425af7e
+                contents:
+                -   title: Oo Kickstarter
+                    source: https://github.com/learn-co-curriculum/oo-kickstarter
+                    uuid: 1fb3f659-f0d0-4ce3-a069-8694eb6e10be
+            -   title: OO Banking
+                uuid: c033fc98-4a4d-46dc-97fc-34dc0fd13483
+                contents:
+                -   title: Oo Banking
+                    source: https://github.com/learn-co-curriculum/oo-banking
+                    uuid: 9d479849-d943-4f1c-b7eb-d44cd7997137
+            -   title: Has Many Objects Through
+                uuid: 5fc55369-dc9c-4413-9d54-475e9af6072f
+                contents:
+                -   title: Ruby Objects Has Many Through Readme
+                    source: https://github.com/learn-co-curriculum/ruby-objects-has-many-through-readme
+                    uuid: eeb846de-3e19-4b7f-a77f-3b667b1af7fc
+            -   title: Has Many Objects Through Lab
+                uuid: de1a164d-4f95-4748-b459-02069881c32f
+                contents:
+                -   title: Ruby Objects Has Many Through Lab
+                    source: https://github.com/learn-co-curriculum/ruby-objects-has-many-through-lab
+                    uuid: 5b34a908-ac26-4b76-9fa0-38a421c436e3
+        -   title: Object Architecture
+            uuid: 18878776-f17f-4952-8cac-e5be2ee30dce
+            lessons:
+            -   title: Intro to Inheritance
+                uuid: c14cbeae-56e2-461b-a2a6-6aec86057c65
+                contents:
+                -   title: Oo Inheritance Code Along
+                    source: https://github.com/learn-co-curriculum/oo-inheritance-code-along
+                    uuid: 0cc27f50-cc46-468d-8e4b-ee08826bad68
+            -   title: Intro to Inheritance Lab
+                uuid: 28955560-8b10-4834-b3f4-d152c7f1433c
+                contents:
+                -   title: Ruby Inheritance Lab
+                    source: https://github.com/learn-co-curriculum/ruby-inheritance-lab
+                    uuid: 5187146e-b14c-4021-bd60-dff5a757483b
+            -   title: Intro to Modules
+                uuid: ed37fdb6-3de4-4d04-8f5a-87c80e263aa7
+                contents:
+                -   title: Modules Reading
+                    source: https://github.com/learn-co-curriculum/modules-reading
+                    uuid: 2a23be87-4259-4e98-8d3f-df1a4eb60d9a
+            -   title: Intro to Modules Lab
+                uuid: a4372bec-5a88-4853-947f-89796cd1923c
+                contents:
+                -   title: Artist Song Modules
+                    source: https://github.com/learn-co-curriculum/artist-song-modules
+                    uuid: a15991fd-e91f-43d7-91a1-691ef4bd847b
+            -   title: Super
+                uuid: 7e26394e-63ca-469e-bbf9-b7c59a5ea1b7
+                contents:
+                -   title: 'Ruby Super Inheritance '
+                    source: https://github.com/learn-co-curriculum/ruby-super-inheritance-
+                    uuid: 4d0bd7cb-dd75-4e0b-95a8-1b30396f91a2
+            -   title: 'Super Lab '
+                uuid: e3802bdd-38bc-4546-bb46-369995a97c84
+                contents:
+                -   title: Ruby Super Inheritance Lab
+                    source: https://github.com/learn-co-curriculum/ruby-super-inheritance-lab
+                    uuid: 36b3b62c-3780-49be-8f48-9bf301220230
+        -   title: Metaprogramming
+            uuid: c7cead0c-3ef1-4ad4-868f-4d91f30a8943
+            lessons:
+            -   title: Mass Assignment
+                uuid: 7432aa3a-b6a4-409f-8a7a-af4fa6c3ebb3
+                contents:
+                -   title: Keyword Args Mass Assignment
+                    source: https://github.com/learn-co-curriculum/keyword-args-mass-assignment
+                    uuid: d0c2fbc6-dc0c-4267-bdb9-7f7999cba604
+            -   title: Mass Assignment and Metaprogramming
+                uuid: d688eaa5-178e-432b-b785-e1fac7f611ca
+                contents:
+                -   title: Mass Assignment Metaprogramming
+                    source: https://github.com/learn-co-curriculum/mass-assignment-metaprogramming
+                    uuid: 8ad0bc7f-111f-4eaf-ad7e-c70c72131aa6
+            -   title: Mass Assignment Lab
+                uuid: 06ea0dda-2e47-4bc5-8455-95dbb12735be
+                contents:
+                -   title: Mass Assignment
+                    source: https://github.com/learn-co-curriculum/mass-assignment
+                    uuid: 674c0ca2-30d2-4b93-9ce9-23ccf764f517
+            -   title: Custom Errors
+                uuid: a05f7647-83a4-4d0e-a910-6189797dc8ab
+                contents:
+                -   title: Oo Custom Errors
+                    source: https://github.com/learn-co-curriculum/oo-custom-errors
+                    uuid: e6fa381e-63da-49bd-bdac-b70f66a22308
+            -   title: OO Triangle
+                uuid: 7309819c-8b31-4acd-980d-b19d60409713
+                contents:
+                -   title: Triangle Classification
+                    source: https://github.com/learn-co-curriculum/triangle-classification
+                    uuid: c1f3f3e3-106b-453d-9eb2-bc5e33a95bc5
+        -   title: Scraping
+            uuid: d9798daf-d47a-458e-95e0-8471ca5867aa
+            lessons:
+            -   title: Gems and Bundler
+                uuid: b40fc276-fbf1-45d9-8f8b-ff307d9948be
+                contents:
+                -   title: Using Bundler
+                    source: https://github.com/learn-co-curriculum/using-bundler
+                    uuid: 21546393-34e7-450e-8f92-19fb1750004e
+            -   title: Scraping
+                uuid: 63927e01-6571-41af-ba66-5ecc52315269
+                contents:
+                -   title: Scraping Reading
+                    source: https://github.com/learn-co-curriculum/scraping-reading
+                    uuid: 5e4fa950-f338-4900-8d26-4b314a94b508
+            -   title: Scraping Lab
+                uuid: 37f2718f-c2bc-482e-99d6-f88b505c76f3
+                contents:
+                -   title: Scraping Flatiron Code Along
+                    source: https://github.com/learn-co-curriculum/scraping-flatiron-code-along
+                    uuid: db31ee32-fc26-46eb-a9a0-c46cf25a2c61
+            -   title: Kickstarter Scraping Lab
+                uuid: 809c12b6-7b4f-45f5-adb6-c887a4b183a4
+                contents:
+                -   title: Scraping Kickstarter
+                    source: https://github.com/learn-co-curriculum/scraping-kickstarter
+                    uuid: 91324054-ac06-4fcb-8f1f-40f3c51d5c24
+        -   title: Final Projects
+            uuid: 1696c7ee-2383-4ba9-a42e-e1308111a1d0
+            lessons:
+            -   title: Music Library CLI
+                uuid: 2ecdaf7f-b5cb-497c-aa87-25999c75df37
+                contents:
+                -   title: Ruby Music Library Cli
+                    source: https://github.com/learn-co-curriculum/ruby-music-library-cli
+                    uuid: 0ae86203-d783-44dc-b5ab-411eccc5b861
+            -   title: Tic-Tac-Toe with AI
+                uuid: e9c528fe-73c9-4312-b0b3-dbf8ce773cda
+                contents:
+                -   title: Ttt With Ai Project
+                    source: https://github.com/learn-co-curriculum/ttt-with-ai-project
+                    uuid: 676ee1b8-70ab-4cd3-b1e4-b1407e790fd7
+            -   title: Student Scraper
+                uuid: 485c82b9-baf2-40c5-99c6-df3ffad3b5cd
+                contents:
+                -   title: Oo Student Scraper
+                    source: https://github.com/learn-co-curriculum/oo-student-scraper
+                    uuid: d19cbd89-ac19-4104-b050-040c394272fe
+            -   title: CLI Data Gem Project
+                uuid: 2f5ef804-7660-4135-a9eb-7ed5c30b3c70
+                contents:
+                -   title: Cli Data Gem Project
+                    source: https://github.com/learn-co-curriculum/cli-data-gem-project
+                    uuid: 5e572bf7-e418-424f-b2e2-72c1f79aae0d
+    -   title: 'SQL (Structured Query Language) '
+        uuid: 0d034c1a-dfb4-4b3d-a332-f407cf3c776c
+        units:
+        -   title: Topic Introduction
+            uuid: 465a144a-5032-4fbe-b486-116d057b380c
+            lessons:
+            -   title: 'What is SQL '
+                uuid: eef80eb1-3060-4c7f-b1c3-58defa00ef82
+                contents:
+                -   title: Sql Topic Introduction
+                    source: https://github.com/learn-co-curriculum/sql-topic-introduction
+                    uuid: 1786c426-b994-491b-bd62-f51d48e2a269
+        -   title: Getting Started
+            uuid: dae4a10e-c16f-4633-94ee-ec3c9b01c5bc
+            lessons:
+            -   title: SQL Intro and Installation
+                uuid: ed089a33-0242-4550-ad14-81859d4753f5
+                contents:
+                -   title: Sql Intro And Installation
+                    source: https://github.com/learn-co-curriculum/sql-intro-and-installation
+                    uuid: cf773bb3-629d-4801-a150-26df3c51e5e7
+            -   title: SQL Database Basics
+                uuid: 0886ec49-0a3f-4878-accf-ace08c1da787
+                contents:
+                -   title: Database Basics
+                    source: https://github.com/learn-co-curriculum/database-basics
+                    uuid: f134207f-507e-4138-9cf5-dbf31b7c64dc
+            -   title: SQL Databases and Text Editors
+                uuid: c53314f9-e5d4-45df-a4ee-2b21451eba32
+                contents:
+                -   title: Databases And Text Editors
+                    source: https://github.com/learn-co-curriculum/databases-and-text-editors
+                    uuid: 90203975-1ff8-4745-b17f-34663337b06d
+            -   title: SQL Data Types
+                uuid: 4ad02150-b224-4f93-a0c5-ad83915b413d
+                contents:
+                -   title: Sqlite Data Types
+                    source: https://github.com/learn-co-curriculum/sqlite-data-types
+                    uuid: 9bdd80a5-e003-4b61-87c3-0f430af59858
+            -   title: SQL Inserting, Updating, and Selecting
+                uuid: 45c59759-1ce1-4a09-a035-0a57c332789f
+                contents:
+                -   title: Insert Select Update Code Along
+                    source: https://github.com/learn-co-curriculum/insert-select-update-code-along
+                    uuid: f7fb33fb-1194-4d9c-ac2f-939b2a1b7fce
+            -   title: Basic SQL Queries
+                uuid: 3ce73649-eeb2-482e-aef1-6601400b421e
+                contents:
+                -   title: Sql Queries Basic
+                    source: https://github.com/learn-co-curriculum/sql-queries-basic
+                    uuid: 927fa924-d0fa-440f-89c0-257db3b51014
+            -   title: SQL Bear Organizer Lab
+                uuid: c9d92cc3-7bcc-4c09-a298-87ac1281d84b
+                contents:
+                -   title: Sql Bear Organizer
+                    source: https://github.com/learn-co-curriculum/SQL-bear-organizer
+                    uuid: 84701313-9378-4002-acbe-ea97e2d3f29a
+            -   title: SQL Aggregate Functions
+                uuid: d6b957ba-4e4c-4053-aa1e-0aae60c125a0
+                contents:
+                -   title: Sql Aggregate Functions
+                    source: https://github.com/learn-co-curriculum/sql-aggregate-functions-readme
+                    uuid: 1d81d90d-5844-47f9-9ec5-3301012e0edb
+            -   title: 'SQL Aggregate Functions Lab '
+                uuid: 3c1e145b-3623-42bd-bb64-71bf5a72f551
+                contents:
+                -   title: Aggregate Functions Sql
+                    source: https://github.com/learn-co-curriculum/sql-aggregate-functions-lab
+                    uuid: 66ef1eec-396a-4c6f-be1a-fda1ac5b3a54
+        -   title: Table Relations
+            uuid: d948fd43-f7d3-4cd0-9cc7-9ba3e2d850ba
+            lessons:
+            -   title: Edgar Codd and Table Relations
+                uuid: bacf3691-2ce2-4cbe-9514-a7939c3a0fea
+                contents:
+                -   title: Sql Edgar Codd Relational Databases Readme
+                    source: https://github.com/learn-co-curriculum/sql-edgar-codd-relational-databases-readme
+                    uuid: 4e6df98c-413e-48e6-81da-a596ccfe5bc1
+            -   title: Table Relations
+                uuid: 009f1510-86c0-49ca-8199-6211269f18cd
+                contents:
+                -   title: Sql Table Relations Readme
+                    source: https://github.com/learn-co-curriculum/sql-table-relations-readme
+                    uuid: 009f9939-ee62-4c1b-a0d7-95afc4ea4a39
+            -   title: SQL JOINS
+                uuid: b62484b0-4a7a-4e2a-8876-44fba84bc8c6
+                contents:
+                -   title: Sql Joins Readme
+                    source: https://github.com/learn-co-curriculum/sql-joins-readme
+                    uuid: 608f2fc5-1994-4beb-82fc-21c9d0699eca
+            -   title: SQL Join Tables
+                uuid: 22588a65-ce00-492f-9271-f9901de40b83
+                contents:
+                -   title: Sql Join Tables Readme
+                    source: https://github.com/learn-co-curriculum/sql-join-tables-readme
+                    uuid: b362b355-a64a-4468-a328-01528038a8a7
+            -   title: Grouping and Sorting Data
+                uuid: c0867f24-5692-4fcc-9fc7-e2f7ab8de746
+                contents:
+                -   title: Sql Grouping And Sorting Readme
+                    source: https://github.com/learn-co-curriculum/sql-grouping-and-sorting-readme
+                    uuid: 77566662-2511-4ac7-ba7c-362963e45f60
+            -   title: SQL Crowdfunding Lab
+                uuid: e922101e-c499-4e1c-9fcd-5061a4482b0a
+                contents:
+                -   title: Sql Crowdfunding Lab
+                    source: https://github.com/learn-co-curriculum/sql-crowdfunding-lab
+                    uuid: 450e423d-2a0f-4916-80a3-1ebc38224fa1
+            -   title: SQL Complex Joins
+                uuid: 3b5adc4f-bedb-4b65-a422-ab7ba4615de4
+                contents:
+                -   title: Sql Complex Joins Readme
+                    source: https://github.com/learn-co-curriculum/sql-complex-joins-readme
+                    uuid: b33f85a5-b8f8-4405-acbb-c027043adf21
+            -   title: SQL Library Lab
+                uuid: 4902f6c6-bb47-40cf-850a-9080ddf7eed8
+                contents:
+                -   title: Sql Library Lab
+                    source: https://github.com/learn-co-curriculum/sql-library-lab
+                    uuid: edd30b84-63d7-42bd-af19-0885b03d5806
+        -   title: SQL and Ruby
+            uuid: 7f40dcff-de65-436c-ad8d-7b80c7dee054
+            lessons:
+            -   title: How Ruby Talks to SQL
+                uuid: 63b00282-9e1c-4cb5-9473-5afd03d703a2
+                contents:
+                -   title: Ruby Orm
+                    source: https://github.com/learn-co-curriculum/ruby-orm
+                    uuid: 3878f1c3-3bbc-41cc-bb99-f22dff123cb0
+            -   title: SQL Pokemon Lab
+                uuid: 2c15d681-ccad-4cd4-9ace-eabfcdd66c45
+                contents:
+                -   title: Pokemon Scraper
+                    source: https://github.com/learn-co-curriculum/pokemon-scraper
+                    uuid: 8e02def4-117e-4b53-a599-fb2c5dd21f2b
+    -   title: ORMs and ActiveRecord
+        uuid: 8ddfab41-de82-4a74-b1aa-e4a2b3c32279
+        units:
+        -   title: ORMs
+            uuid: 2b702fd6-7b7f-494c-ba27-a8bd7729926b
+            lessons:
+            -   title: Why an ORM is Useful
+                uuid: ce296e3c-c099-47be-9371-a85ae05553c9
+                contents:
+                -   title: Ruby Orm
+                    source: https://github.com/learn-co-curriculum/ruby-orm
+                    uuid: 33075ec7-6d92-4009-b312-2a7c5378516f
+            -   title: Mapping Ruby Classes to Database Tables
+                uuid: 20d669f5-e937-4aac-baf1-eb54603da83b
+                contents:
+                -   title: Orm Mapping To Tables
+                    source: https://github.com/learn-co-curriculum/orm-mapping-to-tables
+                    uuid: c2bbe724-7ed0-4eeb-923a-c320cc4f9ab2
+            -   title: Mapping Classes to Tables Lab
+                uuid: aab0df02-ca41-4929-811a-7dc19df08d0a
+                contents:
+                -   title: Orm Mapping To Table Lab
+                    source: https://github.com/learn-co-curriculum/orm-mapping-to-table-lab
+                    uuid: 7145957c-958c-46b2-8d26-6247e0efeef5
+            -   title: Mapping Database Tables to Ruby Objects
+                uuid: 356acc14-33e5-46de-8267-40f6392ab2f6
+                contents:
+                -   title: Orm Mapping Db To Ruby Object
+                    source: https://github.com/learn-co-curriculum/orm-mapping-db-to-ruby-object
+                    uuid: fa1d0695-1799-4657-995c-beb67468b803
+            -   title: Mapping Database Rows to Objects Lab
+                uuid: d79e5225-f6e4-4ab1-98c4-7a5756cffad5
+                contents:
+                -   title: Orm Mapping Db To Ruby Object Lab
+                    source: https://github.com/learn-co-curriculum/orm-mapping-db-to-ruby-object-lab
+                    uuid: b159939c-65b3-49a6-ab5f-f6d2f099d744
+            -   title: Updating Records in an ORM
+                uuid: ac0c6982-97a2-46c3-90a2-212377320bdd
+                contents:
+                -   title: Orm Updating Records
+                    source: https://github.com/learn-co-curriculum/orm-updating-records
+                    uuid: 793772dd-e852-4807-b7f6-b22e58d547e4
+            -   title: Updating Records in an ORM Lab
+                uuid: 67ddccc7-2cab-484a-9f3e-cea1d8c48df3
+                contents:
+                -   title: Orm Update Lab
+                    source: https://github.com/learn-co-curriculum/orm-update-lab
+                    uuid: c95acc67-d8c0-4771-bd00-06a03bae2a46
+            -   title: Preventing Record Duplication
+                uuid: 66a3a53b-64b9-4945-825b-94308f75630e
+                contents:
+                -   title: Orm Find Or Create By
+                    source: https://github.com/learn-co-curriculum/orm-find-or-create-by
+                    uuid: abe1dc34-a584-462a-aab6-f3631a812256
+            -   title: 'ORMs Lab: Bringing It All Together'
+                uuid: 062447b5-4f15-4c40-96f3-4185866ea93a
+                contents:
+                -   title: Bringing It All Together
+                    source: https://github.com/learn-co-curriculum/bringing-it-all-together
+                    uuid: 457c27bf-b57f-40ca-97c7-80ef562820f3
+            -   title: Dynamic ORMs
+                uuid: a4315d79-a20c-4190-8513-138d4da76cb4
+                contents:
+                -   title: Dynamic Orms Readme
+                    source: https://github.com/learn-co-curriculum/dynamic-orms-readme
+                    uuid: 6a2ffd52-4a34-4272-a164-9995a091a78a
+            -   title: Dynamic ORMs with Inheritance
+                uuid: 4c324cb7-c5ed-4473-9bbb-264244a7ccf3
+                contents:
+                -   title: Dynamic Orm Inheritance
+                    source: https://github.com/learn-co-curriculum/dynamic-orm-inheritance
+                    uuid: b84ee6f5-11bf-4145-a79e-4efbe1ff81a9
+            -   title: Dynamic ORM Lab
+                uuid: 4c9bb81a-579d-40ae-87f9-e0a6675bbb21
+                contents:
+                -   title: Dynamic Orm Lab
+                    source: https://github.com/learn-co-curriculum/dynamic-orm-lab
+                    uuid: 0b744f2f-efaa-45c4-b06a-67e88866f664
+        -   title: ActiveRecord
+            uuid: b606fa8d-9dc2-48c2-9a9d-d8fbb65347d4
+            lessons:
+            -   title: ActiveRecord Mechanics
+                uuid: 0ae56083-8a64-4283-af59-bc0afa3584a8
+                contents:
+                -   title: Active Record Mechanics Crud
+                    source: https://github.com/learn-co-curriculum/active-record-mechanics-crud
+                    uuid: 947ae3ff-17be-442c-bef8-65d42ad100ac
+            -   title: Translating from ORM to ActiveRecord
+                uuid: 6cc2362e-5b12-4893-8d98-1a3fe72de7ca
+                contents:
+                -   title: Translating Orm To Ar
+                    source: https://github.com/learn-co-curriculum/translating-orm-to-ar
+                    uuid: 0ffce3c4-4b44-4357-ad83-7a4cf1609d8e
+            -   title: ActiveRecord CRUD Lab
+                uuid: e5e316c6-7ebe-4a4b-8f20-348e67c28114
+                contents:
+                -   title: Activerecord Crud
+                    source: https://github.com/learn-co-curriculum/activerecord-crud
+                    uuid: f5391a71-ce38-4df6-9940-ce1e6e9a6adb
+            -   title: Intro to Rake
+                uuid: 03d878a0-4fcd-4e0b-9bec-798e5a30e421
+                contents:
+                -   title: Intro To Rake
+                    source: https://github.com/learn-co-curriculum/intro-to-rake
+                    uuid: e1dff462-7c56-4ba8-ae51-a5727ad9b602
+            -   title: Mechanics of Migrations
+                uuid: b17fb34e-c048-4ccd-95f9-192431f3a0f2
+                contents:
+                -   title: Mechanics Of Migrations
+                    source: https://github.com/learn-co-curriculum/mechanics-of-migrations
+                    uuid: 2946e8ed-73cb-48b9-b7fe-14abd7ba36ea
+            -   title: Writing Our Own Migrations
+                uuid: dbfbf5ae-af0a-4284-927d-589031884a6a
+                contents:
+                -   title: Writing Migrations
+                    source: https://github.com/learn-co-curriculum/writing-migrations
+                    uuid: 13008b0c-665e-479c-85bb-c5a4872aa695
+            -   title: Migrations and Active Record Lab
+                uuid: 254318b1-64ae-4d6c-84eb-3d1991798cde
+                contents:
+                -   title: Activerecord Costume Store Todo
+                    source: https://github.com/learn-co-curriculum/activerecord-costume-store-todo
+                    uuid: 5cb767f8-3d01-4873-bd54-97dceb158a56
+            -   title: Advanced Finding Lab
+                uuid: 6869957b-75d3-40d6-9ffc-5fc03db46ab9
+                contents:
+                -   title: Activerecord Tvshow
+                    source: https://github.com/learn-co-curriculum/activerecord-tvshow
+                    uuid: fbd755bb-7ac7-499d-8925-58cdd2990f56
+        -   title: Associations
+            uuid: a9e3ed62-2457-4d2c-856d-0d59c7d26c50
+            lessons:
+            -   title: ActiveRecord Associations
+                uuid: a81b6e80-39b8-4b21-b673-23358744041a
+                contents:
+                -   title: Activerecord Associations Intro
+                    source: https://github.com/learn-co-curriculum/activerecord-associations-intro
+                    uuid: 57f18e25-01b4-4805-a162-af4040b6485a
+            -   title: ActiveRecord Associations Lab
+                uuid: 587ddd1f-a60c-4be3-865b-874dde62ebdc
+                contents:
+                -   title: Active Record Association Methods
+                    source: https://github.com/learn-co-curriculum/Active-Record-Association-Methods
+                    uuid: 9a8cb0b8-e590-49ca-8c23-0767d6154655
+            -   title: 'ActiveRecord Associations Lab II '
+                uuid: 2607182c-de25-4fc2-aa1d-610e390e5af5
+                contents:
+                -   title: Activerecord Tvland
+                    source: https://github.com/learn-co-curriculum/activerecord-tvland
+                    uuid: 12a876e3-8e1b-485f-ab3a-2b1708b4208b
+    -   title: Rack
+        uuid: 1bc988af-e853-4389-9195-331281565592
+        units:
+        -   title: Rack and the Internet
+            uuid: 17004deb-132c-4201-baf3-28732c2f3194
+            lessons:
+            -   title: How the Internet Works
+                uuid: eff5d11e-cb5e-466b-9737-7eb7136ab09f
+                contents:
+                -   title: How The Web Works Readme
+                    source: https://github.com/learn-co-curriculum/how-the-web-works-readme
+                    uuid: 7ecd6861-4176-4255-a110-3279c635f891
+            -   title: Increasing Layers of Abstraction
+                uuid: e4913f75-20a0-463c-a414-8aec5cab121b
+                contents:
+                -   title: Why Layers Of Abstraction
+                    source: https://github.com/learn-co-curriculum/why-layers-of-abstraction
+                    uuid: 6e64e387-3ca4-463b-bdeb-4dd62900ac65
+            -   title: Inspecting the Web with Rack
+                uuid: 31e5119e-9efd-4a70-99de-6e8388cce213
+                contents:
+                -   title: Rack Intro
+                    source: https://github.com/learn-co-curriculum/rack-intro
+                    uuid: d4acdedd-e429-4d3b-85e7-4527ab25ff95
+            -   title: 'Dynamic Web Apps with Rack '
+                uuid: 1f84e884-b7de-4678-b58d-4abdb9cd5cfe
+                contents:
+                -   title: Rack Dynamic Web Apps
+                    source: https://github.com/learn-co-curriculum/rack-dynamic-web-apps
+                    uuid: bc7231cb-8cfe-4d4b-b7d2-ac17f90bc5bb
+            -   title: Rack Responses Lab
+                uuid: e5bbfd09-57d0-4bb7-ad5c-8d501ecd081c
+                contents:
+                -   title: Rack Responses Lab
+                    source: https://github.com/learn-co-curriculum/rack-responses-lab
+                    uuid: ae0fdb5f-5fe7-4bde-ba0c-5e33e8a6f0b6
+            -   title: The HTTP Request
+                uuid: ed30a5ee-4727-4de8-9eaa-a7f888ddca9c
+                contents:
+                -   title: Rack Http Request Readme
+                    source: https://github.com/learn-co-curriculum/rack-http-request-readme
+                    uuid: 74e4ebad-a035-4c22-84a6-997023250bda
+            -   title: Rack Routes and GET Params Lab
+                uuid: b4132fb3-518b-4ed3-ab45-8ee087095465
+                contents:
+                -   title: Rack Get Params Lab
+                    source: https://github.com/learn-co-curriculum/rack-get-params-lab
+                    uuid: 448c2c3a-aa27-4284-8d86-b087d8a94516
+            -   title: Dynamic URL Routes
+                uuid: 2fc5e3d7-73b4-4157-9f94-ed0653e9ff7c
+                contents:
+                -   title: Rack Dynamic Paths Readme
+                    source: https://github.com/learn-co-curriculum/rack-dynamic-paths-readme
+                    uuid: c0c2217a-fe4f-4d42-b92f-fe0d045d42b5
+            -   title: HTTP Status Codes
+                uuid: c5db08fb-7782-45b7-88ca-7f2aa2900905
+                contents:
+                -   title: Rack Status Codes Readme
+                    source: https://github.com/learn-co-curriculum/rack-status-codes-readme
+                    uuid: 9af4024a-08b8-4760-924c-9ab92bbd99f6
+            -   title: Dynamic URLs and Status Codes Lab
+                uuid: 4c492b76-6ba3-4c93-9eb1-11890ec88348
+                contents:
+                -   title: Rack Dynamic Routes Lab
+                    source: https://github.com/learn-co-curriculum/rack-dynamic-routes-lab
+                    uuid: 8944ce23-7d19-428c-9821-599cf77829c5
+    -   title: Sinatra
+        uuid: 7cee2131-6517-46c9-8fca-a2b87c70e83f
+        units:
+        -   title: Sinatra Basics
+            uuid: dcbd9bc2-5481-4da9-b2f0-589afe26eded
+            lessons:
+            -   title: What is Sinatra?
+                uuid: 99a69b04-7f60-4d98-b4b3-7ba3d5d4c243
+                contents:
+                -   title: What Is Sinatra
+                    source: https://github.com/learn-co-curriculum/what-is-sinatra
+                    uuid: cded1008-e574-41e2-9fc9-923107027f8c
+            -   title: Sinatra from Scratch
+                uuid: e465986a-6a8f-4a30-9206-646a6018aa3d
+                contents:
+                -   title: Sinatra From Scratch Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-from-scratch-readme
+                    uuid: d83859c7-11a2-4431-a8e6-e90fc80b8327
+            -   title: Sinatra Basics
+                uuid: a3d6403b-84a2-4ba5-a995-627d8820a074
+                contents:
+                -   title: Sinatra Basics
+                    source: https://github.com/learn-co-curriculum/sinatra-basics
+                    uuid: c92fa986-25b2-4bf3-99ef-96673648b8d3
+            -   title: Using the Shotgun Development Server
+                uuid: 4e0fdfd6-5324-4c5e-bbdf-d581bad240f6
+                contents:
+                -   title: Sinatra Shotgun Server
+                    source: https://github.com/learn-co-curriculum/sinatra-shotgun-server
+                    uuid: c0388fb5-35bf-42a3-8d4f-7ae14c399c8d
+            -   title: Sinatra "Hello World" Lab
+                uuid: bfbd2e3e-868a-4d15-8d98-3148df839228
+                contents:
+                -   title: Sinatra Hello World Basics
+                    source: https://github.com/learn-co-curriculum/sinatra-hello-world-basics
+                    uuid: dbbae9d2-fc70-4f49-80b6-47a29c1cd37f
+            -   title: Sinatra Routes
+                uuid: 4505e7c9-90e4-40f6-898b-ebfb16847ccb
+                contents:
+                -   title: Sinatra Routes Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-routes-readme
+                    uuid: d61fae86-36d9-4013-8f6c-515ee9b02fd5
+            -   title: Sinatra Basic Routes Lab
+                uuid: 2b75e002-5bab-4ebe-a8ee-11060832f01b
+                contents:
+                -   title: Sinatra Basic Routes Lab
+                    source: https://github.com/learn-co-curriculum/sinatra-basic-routes-lab
+                    uuid: aa4b6d54-4ae6-408b-822d-2f7f9031491b
+        -   title: MVC and Forms
+            uuid: 549615fc-c50e-4dca-b19c-a63eb9b1860e
+            lessons:
+            -   title: Intro to MVC
+                uuid: 25aac223-58a6-4eee-97a3-021674290456
+                contents:
+                -   title: Sinatra Intro To Mvc
+                    source: https://github.com/learn-co-curriculum/sinatra-intro-to-mvc
+                    uuid: 84aa0e7f-444d-4cb9-9030-d1655d62bf92
+            -   title: Sinatra MVC File Structure
+                uuid: bd7f8509-9189-4ae7-9b0a-616a9db6e9da
+                contents:
+                -   title: Sinatra Mvc File Structure
+                    source: https://github.com/learn-co-curriculum/sinatra-mvc-file-structure
+                    uuid: 530f3442-d7b3-4f2a-b6b7-014c0b4ae1d7
+            -   title: Sinatra Views
+                uuid: df4cc1c5-778b-4669-a314-778921a5d085
+                contents:
+                -   title: Sinatra Views
+                    source: https://github.com/learn-co-curriculum/sinatra-views
+                    uuid: b0acfd23-9843-4a31-818b-08dfa155c720
+            -   title: Sinatra Basic Views Lab
+                uuid: 0a6cb2a3-6590-4c8f-89f8-39866850f4c4
+                contents:
+                -   title: Sinatra Basic Views Lab
+                    source: https://github.com/learn-co-curriculum/sinatra-basic-views-lab
+                    uuid: 1e2a3888-9ff2-46ff-bc1b-f55ff461587a
+            -   title: Using ERB
+                uuid: 98c40c65-96a2-498e-83ae-6831b06d6f1e
+                contents:
+                -   title: Sinatra Using Erb
+                    source: https://github.com/learn-co-curriculum/sinatra-using-erb
+                    uuid: a8685437-0436-4fcd-be1e-092432b546d6
+            -   title: Sinatra Views Lab II
+                uuid: 01491e42-eeac-40ec-ace7-c4fc10de6fde
+                contents:
+                -   title: Sinatra Views Lab
+                    source: https://github.com/learn-co-curriculum/sinatra-views-lab
+                    uuid: e064ca44-742c-49a2-b055-958a9b0e7173
+        -   title: 'Forms '
+            uuid: da5cbd4e-2338-4e60-b688-3d38a00b9256
+            lessons:
+            -   title: Intro to Capybara Tests
+                uuid: 5a428a02-8500-4e99-84d9-6d1d0a18cd5e
+                contents:
+                -   title: Intro To Capybara
+                    source: https://github.com/learn-co-curriculum/intro-to-capybara
+                    uuid: 4fc66070-8660-4153-8998-8d452a4301d8
+            -   title: Dynamic Routes
+                uuid: d8d69469-853b-4941-9c69-3aa15f32fd9c
+                contents:
+                -   title: Sinatra Dynamic Routes Codealong
+                    source: https://github.com/learn-co-curriculum/sinatra-dynamic-routes-codealong
+                    uuid: e00c1df7-2d7f-42ce-8655-1e1f72659f3e
+            -   title: Dynamic Routes Lab
+                uuid: 42516108-d95b-44fe-8add-06db39f3b682
+                contents:
+                -   title: Sinatra Dynamic Routes Lab
+                    source: https://github.com/learn-co-curriculum/sinatra-dynamic-routes-lab
+                    uuid: 96c938c9-a7c2-41c1-b175-d1d2cd499aed
+            -   title: HTML Forms and Params
+                uuid: 10111508-dc7f-4805-a835-2cfa7c9958a8
+                contents:
+                -   title: Sinatra Forms Params Readme Walkthrough
+                    source: https://github.com/learn-co-curriculum/sinatra-forms-params-readme-walkthrough
+                    uuid: 28390ecd-cdb6-454a-be13-499d93876f8c
+            -   title: Passing Data Between Views and Controllers
+                uuid: dd18497b-ac8c-416a-b9ba-6d618c215929
+                contents:
+                -   title: Sinatra View And Controller Readme Walkthrough
+                    source: https://github.com/learn-co-curriculum/sinatra-view-and-controller-readme-walkthrough
+                    uuid: 397b1758-76b8-400a-84f8-c6bc0b91c256
+            -   title: Basic Sinatra Forms Lab
+                uuid: 3a42f502-1b81-4b55-bc2f-714e65cf7fdc
+                contents:
+                -   title: Basic Sinatra Forms Lab
+                    source: https://github.com/learn-co-curriculum/basic-sinatra-forms-lab
+                    uuid: 8eeced61-8771-4324-9cf8-2f7b81d86a30
+            -   title: Layouts and Yield
+                uuid: 05942f36-68b6-4e31-9f00-023001bb8d3b
+                contents:
+                -   title: Sinatra Yield Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-yield-readme
+                    uuid: 1afd42c2-dc4c-444c-93ec-3b60d0524685
+            -   title: Integrating Models for a Full MVC
+                uuid: 14fa53c0-146c-4a6a-993e-992ece2c404e
+                contents:
+                -   title: Sinatra Integrating Models Walkthrough
+                    source: https://github.com/learn-co-curriculum/sinatra-integrating-models-walkthrough
+                    uuid: d65b7033-1900-4a31-a4c4-fa73f8f1c871
+            -   title: Sinatra MVC Lab
+                uuid: 8bc3ad10-5b44-4f3a-9f15-d68289ca5857
+                contents:
+                -   title: Sinatra Mvc Lab
+                    source: https://github.com/learn-co-curriculum/sinatra-mvc-lab
+                    uuid: 40ac8e5a-b5ec-4e23-9c4a-50997190726e
+            -   title: Sinatra Basic Forms Lab
+                uuid: 9faf629a-380d-4bf5-9a1e-916bbf2e7f9c
+                contents:
+                -   title: Sinatra Basic Forms Lab
+                    source: https://github.com/learn-co-curriculum/sinatra-basic-forms-lab
+                    uuid: b2bbdbd9-772a-4783-bbeb-bdee2df08b95
+            -   title: Sinatra Nested Forms
+                uuid: c845f613-4d03-44dd-9f0f-1c7e6028f5ee
+                contents:
+                -   title: Sinatra Nested Forms Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-nested-forms-readme
+                    uuid: ad464427-a681-4bd6-9fed-6494550cbbde
+            -   title: 'Sinatra Nested Forms Lab: Pirates!'
+                uuid: 3e8059e8-6f48-4b49-826a-6e596674e8f1
+                contents:
+                -   title: Sinatra Nested Forms
+                    source: https://github.com/learn-co-curriculum/sinatra-nested-forms
+                    uuid: 54caf0d5-44b8-4a35-9ea9-c8f355eabacc
+            -   title: 'Sinatra Nested Forms Lab: Superheros!'
+                uuid: 397d235d-323b-4cf3-b984-e3560abe0dff
+                contents:
+                -   title: Sinatra Nested Forms Lab Superheros
+                    source: https://github.com/learn-co-curriculum/sinatra-nested-forms-lab-superheros
+                    uuid: 2c2ca084-7664-41da-be1c-c4032fbf5983
+        -   title: Sessions
+            uuid: ec6cbd51-654a-49b2-9f94-73286445f7e9
+            lessons:
+            -   title: Sessions and Cookies
+                uuid: f2a96004-65b5-4d42-9563-b9d0f3725622
+                contents:
+                -   title: Sinatra Cookies Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-cookies-readme
+                    uuid: 12572789-0526-462f-8675-767652cb6658
+            -   title: Mechanics of Sessions
+                uuid: bd02764f-8514-435d-96b2-8c8ac3f6b7fe
+                contents:
+                -   title: Sinatra Mechanics Of Sessions Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme
+                    uuid: a235c853-55d8-4a01-a411-8b69d61abdde
+            -   title: Sinatra Sessions Lab
+                uuid: d0adb2bb-31e8-4b23-9e2e-cbe4f8361304
+                contents:
+                -   title: Sinatra Basic Sessions Lab
+                    source: https://github.com/learn-co-curriculum/sinatra-basic-sessions-lab
+                    uuid: 64b7491e-ab02-405b-ba24-b6f56ec6c473
+            -   title: Sinatra Sessions Codealong
+                uuid: 42b31cba-46eb-4537-9c99-3a21909ad233
+                contents:
+                -   title: Sinatra Sessions
+                    source: https://github.com/learn-co-curriculum/sinatra-sessions
+                    uuid: 28d42adb-8691-408e-9f08-da783afe8ee2
