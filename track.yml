@@ -27,6 +27,12 @@ track:
                 -   title: Halloween Project
                     source: https://github.com/DEV-learn-co-curriculum/halloween-project
                     uuid: a1428c06-98d6-4524-b718-559b9de15225
+            -   title: kwanza
+                uuid: 2aa9b800-3930-45e0-b419-dfab91004d90
+                contents:
+                -   title: Kwanza Project
+                    source: https://github.com/DEV-learn-co-curriculum/kwanza-project
+                    uuid: c4c9db4a-fda6-45be-9199-205b3195ad2b
     -   title: Git and GitHub
         uuid: 28d2c1aa-22cf-4af1-8841-04af7fbe4dff
         units:
