@@ -33,6 +33,12 @@ track:
                 -   title: Kwanza Project
                     source: https://github.com/DEV-learn-co-curriculum/kwanza-project
                     uuid: c4c9db4a-fda6-45be-9199-205b3195ad2b
+            -   title: sinatra-fwitter
+                uuid: 312fa6dc-cad7-421b-b5d8-44bc0b77f175
+                contents:
+                -   title: Sinatra Fwitter Group Project
+                    source: https://github.com/DEV-learn-co-curriculum/sinatra-fwitter-group-project
+                    uuid: e5f4fbbb-db59-417d-8090-e6f9bf7c4530
     -   title: Git and GitHub
         uuid: 28d2c1aa-22cf-4af1-8841-04af7fbe4dff
         units:
