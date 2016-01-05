@@ -51,6 +51,12 @@ track:
                 -   title: Xmas Project
                     source: https://github.com/DEV-learn-co-curriculum/xmas-project
                     uuid: 70a90065-2665-4bc6-9484-da3b3723bb62
+            -   title: kwanza
+                uuid: f893b150-8a79-45ec-a1df-629aec185da7
+                contents:
+                -   title: Kwanza Project
+                    source: https://github.com/DEV-learn-co-curriculum/kwanza-project
+                    uuid: f46981b0-5f07-4bf0-bb4e-4cb147217783
         -   title: 'Debugging '
             uuid: f203d8e7-70d3-4caa-81a5-1783f287f96d
             lessons:
